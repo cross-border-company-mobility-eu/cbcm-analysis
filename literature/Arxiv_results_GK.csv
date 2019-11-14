@@ -1,0 +1,2360 @@
+Common Market Law Review,http://arxiv.org/abs/physics/0612068v2,"Topological Properties of the Minimal Spanning Tree in Korean and
+  American Stock Markets","We investigate a factor that can affect the number of links of a specific
+stock in a network between stocks created by the minimal spanning tree (MST)
+method, by using individual stock data listed on the S&P500 and KOSPI. Among
+the common factors mentioned in the arbitrage pricing model (APM), widely
+acknowledged in the financial field, a representative market index is
+established as a possible factor. We found that the correlation distribution,
+$\rho_{ij}$, of 400 stocks taken from the S&P500 index shows a very similar
+with that of the Korean stock market and those deviate from the correlation
+distribution of time series removed a nonlinearity by the surrogate method. We
+also shows that the degree distribution of the MSTs for both stock markets
+follows a power-law distribution with the exponent $\zeta \sim$ 2.1, while the
+degree distribution of the time series eliminated a nonlinearity follows an
+exponential distribution with the exponent, $\delta \sim 0.77$. Furthermore the
+correlation, $\rho_{iM}$, between the degree k of individual stock, $i$, and
+the market index, $M$, follows a power-law distribution, $<\rho_{iM}(k) > \sim
+k^{\gamma}$, with the exponent $\gamma_{\textrm{S&P500}} \approx 0.16$ and
+$\gamma_{\textrm{KOSPI}} \approx 0.14$, respectively. Thus, regardless of the
+markets, the indivisual stocks closely related to the common factor in the
+market, the market index, are likely to be located around the center of the
+network between stocks, while those weakly related to the market index are
+likely to be placed in the outside.",
+Common Market Law Review,http://arxiv.org/abs/1201.6655v1,Learning Performance of Prediction Markets with Kelly Bettors,"In evaluating prediction markets (and other crowd-prediction mechanisms),
+investigators have repeatedly observed a so-called ""wisdom of crowds"" effect,
+which roughly says that the average of participants performs much better than
+the average participant. The market price---an average or at least aggregate of
+traders' beliefs---offers a better estimate than most any individual trader's
+opinion. In this paper, we ask a stronger question: how does the market price
+compare to the best trader's belief, not just the average trader. We measure
+the market's worst-case log regret, a notion common in machine learning theory.
+To arrive at a meaningful answer, we need to assume something about how traders
+behave. We suppose that every trader optimizes according to the Kelly criteria,
+a strategy that provably maximizes the compound growth of wealth over an
+(infinite) sequence of market interactions. We show several consequences.
+First, the market prediction is a wealth-weighted average of the individual
+participants' beliefs. Second, the market learns at the optimal rate, the
+market price reacts exactly as if updating according to Bayes' Law, and the
+market prediction has low worst-case log regret to the best individual
+participant. We simulate a sequence of markets where an underlying true
+probability exists, showing that the market converges to the true objective
+frequency as if updating a Beta distribution, as the theory predicts. If agents
+adopt a fractional Kelly criteria, a common practical variant, we show that
+agents behave like full-Kelly agents with beliefs weighted between their own
+and the market's, and that the market price converges to a time-discounted
+frequency. Our analysis provides a new justification for fractional Kelly
+betting, a strategy widely used in practice for ad-hoc reasons. Finally, we
+propose a method for an agent to learn her own optimal Kelly fraction.",
+Common Market Law Review,http://arxiv.org/abs/1112.2251v1,"Recommendation systems: a joint analysis of technical aspects with
+  marketing implications","In 2010, Web users ordered, only in Amazon, 73 items per second and massively
+contribute reviews about their consuming experience. As the Web matures and
+becomes social and participatory, collaborative filters are the basic
+complement in searching online information about people, events and products.
+In Web 2.0, what connected consumers create is not simply content (e.g.
+reviews) but context. This new contextual framework of consumption emerges
+through the aggregation and collaborative filtering of personal preferences
+about goods in the Web in massive scale. More importantly, facilitates
+connected consumers to search and navigate the complex Web more effectively and
+amplifies incentives for quality. The objective of the present article is to
+jointly review the basic stylized facts of relevant research in recommendation
+systems in computer and marketing studies in order to share some common
+insights. After providing a comprehensive definition of goods and Users in the
+Web, we describe a classification of recommendation systems based on two
+families of criteria: how recommendations are formed and input data
+availability. The classification is presented under a common minimal matrix
+notation and is used as a bridge to related issues in the business and
+marketing literature. We focus our analysis in the fields of one-to-one
+marketing, network-based marketing Web merchandising and atmospherics and their
+implications in the processes of personalization and adaptation in the Web.
+Market basket analysis is investigated in context of recommendation systems.
+Discussion on further research refers to the business implications and
+technological challenges of recommendation systems.",
+Common Market Law Review,http://arxiv.org/abs/1201.3851v1,Combinatorial Modelling and Learning with Prediction Markets,"Combining models in appropriate ways to achieve high performance is commonly
+seen in machine learning fields today. Although a large amount of combinatorial
+models have been created, little attention is drawn to the commons in different
+models and their connections. A general modelling technique is thus worth
+studying to understand model combination deeply and shed light on creating new
+models. Prediction markets show a promise of becoming such a generic, flexible
+combinatorial model. By reviewing on several popular combinatorial models and
+prediction market models, this paper aims to show how the market models can
+generalise different combinatorial stuctures and how they implement these
+popular combinatorial models in specific conditions. Besides, we will see among
+different market models, Storkey's \emph{Machine Learning Markets} provide more
+fundamental, generic modelling mechanisms than the others, and it has a
+significant appeal for both theoretical study and application.",
+Common Market Law Review,http://arxiv.org/abs/physics/0510038v2,"A common origin of the power law distributions in models of market and
+  earthquake","We show that there is a common mode of origin for the power laws observed in
+two different models: (i) the Pareto law for the distribution of money among
+the agents with random saving propensities in an ideal gas-like market model
+and (ii) the Gutenberg-Richter law for the distribution of overlaps in a
+fractal-overlap model for earthquakes. We find that the power laws appear as
+the asymptotic forms of ever-widening log-normal distributions for the agents'
+money and the overlap magnitude respectively. The identification of the generic
+origin of the power laws helps in better understanding and in developing
+generalized views of phenomena in such diverse areas as economics and
+geophysics.",Physica A 381 (2007) 377-382
+Common Market Law Review,http://arxiv.org/abs/physics/0507136v2,Ideal-Gas Like Markets: Effect of Savings,"We discuss the ideal gas like models of a trading market. The effect of
+savings on the distribution have been thoroughly reviewed. The market with
+fixed saving factors leads to a Gamma-like distribution. In a market with
+quenched random saving factors for its agents we show that the steady state
+income ($m$) distribution $P(m)$ in the model has a power law tail with Pareto
+index $\nu$ equal to unity. We also discuss the detailed numerical results on
+this model. We analyze the distribution of mutual money difference and also
+develop a master equation for the time development of $P(m)$. Precise solutions
+are then obtained in some special cases.",
+Common Market Law Review,http://arxiv.org/abs/0806.4466v1,Klein - Gordon equation for market wealth operations,"In this paper the modified Klein - Gordon equation for market processes is
+proposed and solved. It is argued that the oscillations in market propagate
+with the light velocity. The initial pulse in the market is damped and for very
+large time diffused according to the Fourier law.",
+Common Market Law Review,http://arxiv.org/abs/1505.02766v1,Features of transformation of marketing in e-commerce,"Article about influence of e-commerce on transformation of the theory and
+practice of marketing. The author considers Internet-marketing as the
+independent form of marketing formed under the general laws in new
+institutional conditions.","Omsk Scientific Bulletin. 2013. No 1 (115). P. 55-58. ISSN
+  1813-8225"
+Common Market Law Review,http://arxiv.org/abs/1811.00612v1,"Zipf's, Heaps' and Taylor's laws are determined by the expansion into
+  the adjacent possible","Zipf's, Heaps' and Taylor's laws are ubiquitous in many different systems
+where innovation processes are at play. Together, they represent a compelling
+set of stylized facts regarding the overall statistics, the innovation rate and
+the scaling of fluctuations for systems as diverse as written texts and cities,
+ecological systems and stock markets. Many modeling schemes have been proposed
+in literature to explain those laws, but only recently a modeling framework has
+been introduced that accounts for the emergence of those laws without deducing
+the emergence of one of the laws from the others or without ad hoc assumptions.
+This modeling framework is based on the concept of adjacent possible space and
+its key feature of being dynamically restructured while its boundaries get
+explored, i.e., conditional to the occurrence of novel events. Here, we
+illustrate this approach and show how this simple modelling framework,
+instantiated through a modified Polya's urn model, is able reproduce Zipf's,
+Heaps' and Taylor's laws within a unique self-consistent scheme. In addition
+the same modelling scheme embraces other less common evolutionary laws (Hoppe's
+model and Dirichlet processes) as particular cases.","Entropy 2018, 20(10), 752"
+Common Market Law Review,http://arxiv.org/abs/physics/0701171v2,"A case study of speculative financial bubbles in the South African stock
+  market 2003-2006","We tested 45 indices and common stocks traded in the South African stock
+market for the possible existence of a bubble over the period from Jan. 2003 to
+May 2006. A bubble is defined by a faster-than-exponential acceleration with
+significant log-periodic oscillations. The faster-than-exponential acceleration
+characteristics are tested with several different metrics, including
+nonlinearity on the logarithm of the price and power law fits. The log-periodic
+properties are investigated in detail using the first-order log-periodic
+power-law (LPPL) formula, the parametric detrending method, the
+$(H,q)$-analysis, and the second-order Weierstrass-type model, resulting in a
+consistent and robust estimation of the fundamental angular log-frequency
+$\omega_1 =7\pm 2$, in reasonable agreement with previous estimations on many
+other bubbles in developed and developing markets. Sensitivity tests of the
+estimated critical times and of the angular log-frequency are performed by
+varying the first date and the last date of the stock price time series. These
+tests show that the estimated parameters are robust. With the insight of 6
+additional month of data since the analysis was performed, we observe that many
+of the stocks on the South Africa market experienced an abrupt drop mid-June
+2006, which is compatible with the predicted $t_c$ for several of the stocks,
+but not all. This suggests that the mini-crash that occurred around mid-June of
+2006 was only a partial correction, which has resumed into a renewed bubbly
+acceleration bound to end some times in 2007, similarly to what happened on the
+S&P500 US market from Oct. 1997 to Aug. 1998.","Physica A 388 (6), 869-880 (2009)"
+Common Market Law Review,http://arxiv.org/abs/1508.07272v1,"Market Formation as Transitive Closure: the Evolving Pattern of Trade in
+  Music","Where do new markets come from? I construct a network model in which national
+markets are nodes and flows of recorded music between them are links and
+conduct a longitudinal analysis of the global pattern of trade in the period
+1976 to 2010. I hypothesize that new export markets are developed through a
+process of transitive closure in the network of international trade. When two
+countries' markets experience the same social influences, it brings them close
+enough together for new homophilous ties to be formed. The implication is that
+consumption of foreign products helps, not hurts, home-market producers develop
+overseas markets, but only in those countries that have a history of consuming
+the same foreign products that were consumed in the home market. Selling in a
+market changes what is valued in that market, and new market formation is a
+consequence of having social influences in common.",
+Common Market Law Review,http://arxiv.org/abs/physics/0606005v1,"On the gap between an empirical distribution and an exponential
+  distribution of waiting times for price changes in a financial market","We analyze waiting times for price changes in a foreign currency exchange
+rate. Recent empirical studies of high frequency financial data support that
+trades in financial markets do not follow a Poisson process and the waiting
+times between trades are not exponentially distributed. Here we show that our
+data is well approximated by a Weibull distribution rather than an exponential
+distribution in a non-asymptotic regime. Moreover, we quantitatively evaluate
+how much an empirical data is far from an exponential distribution using a
+Weibull fit. Finally, we discuss a phase transition between a Weibull-law and a
+power-law in the asymptotic long waiting time regime.",
+Common Market Law Review,http://arxiv.org/abs/1604.01672v1,Market Share Analysis with Brand Effect,"In this paper, we investigate the effect of brand in market competition.
+Specifically, we propose a variant Hotelling model where companies and
+customers are represented by points in an Euclidean space, with axes being
+product features. $N$ companies compete to maximize their own profits by
+optimally choosing their prices, while each customer in the market, when
+choosing sellers, considers the sum of product price, discrepancy between
+product feature and his preference, and a company's brand name, which is
+modeled by a function of its market area of the form $-\beta\cdot\text{(Market
+Area)}^q$, where $\beta$ captures the brand influence and $q$ captures how
+market share affects the brand. By varying the parameters $\beta$ and $q$, we
+derive existence results of Nash equilibrium and equilibrium market prices and
+shares. In particular, we prove that pure Nash equilibrium always exists when
+$q=0$ for markets with either one and two dominating features, and it always
+exists in a single dominating feature market when market affects brand name
+linearly, i.e., $q=1$. Moreover, we show that at equilibrium, a company's price
+is proportional to its market area over the competition intensity with its
+neighbors, a result that quantitatively reconciles the common belief of a
+company's pricing power. We also study an interesting ""wipe out"" phenomenon
+that only appears when $q>0$, which is similar to the ""undercut"" phenomenon in
+the Hotelling model, where companies may suddenly lose the entire market area
+with a small price increment. Our results offer novel insight into market
+pricing and positioning under competition with brand effect.",
+Common Market Law Review,http://arxiv.org/abs/0706.0641v1,Information diffusion epidemics in social networks,"The dynamics of information dissemination in social networks is of paramount
+importance in processes such as rumors or fads propagation, spread of product
+innovations or ""word-of-mouth"" communications. Due to the difficulty in
+tracking a specific information when it is transmitted by people, most
+understanding of information spreading in social networks comes from models or
+indirect measurements. Here we present an integrated experimental and
+theoretical framework to understand and quantitatively predict how and when
+information spreads over social networks. Using data collected in Viral
+Marketing campaigns that reached over 31,000 individuals in eleven European
+markets, we show the large degree of variability of the participants' actions,
+despite them being confronted with the common task of receiving and forwarding
+the same piece of information. This have a profound effect on information
+diffusion: Firstly, most of the transmission takes place due to super-spreading
+events which would be considered extraordinary in population-average models.
+Secondly, due to the different way individuals schedule information
+transmission we observe a slowing down of the spreading of information in
+social networks that happens in logarithmic time. Quantitative description of
+the experiments is possible through an stochastic branching process which
+corroborates the importance of heterogeneity. Since high variability of both
+the intensity and frequency of human responses are found in many other
+activities, our findings are pertinent to many other human driven diffusion
+processes like rumors, fads, innovations or news which has important
+consequences for organizations management, communications, marketing or
+electronic social communities.","Physical Review Letters 103, 038702 (2009)"
+Common Market Law Review,http://arxiv.org/abs/1303.2675v1,"A legal perspective of E-business and E-marketing for small and medium
+  enterprises","Electronic businesses are witnessing enormous growth as more and more people
+are switching to online platforms. The widespread use of Internet has opened
+new channels to operate trade for many businesses. Also electronic marketing
+has become a proven channel of passing on the word to the customers. Legal and
+ethical issues quickly become an area of concern. In this research
+recommendations are made to harmonize IT and Internet Laws. A novel approach is
+proposed to promote legal risk management culture in organizations. It begins
+with revising current state of regulations surrounding eBusinesses and
+electronic marketing. The proposed approach offers risk management by
+considering risk mitigation strategy, educating people and use of information
+technology. Monitoring compliance requirements are met by reviewing the latest
+changes in regulations and rewarding the employees who ensures the successful
+implementation of the strategy.",
+Common Market Law Review,http://arxiv.org/abs/1209.5625v1,Managing Complex Structured Data In a Fast Evolving Environment,"Criminal data comes in a variety of formats, mandated by state, federal, and
+international standards. Specifying the data in a unified fashion is necessary
+for any system that intends to integrate with state, federal, and international
+law enforcement agencies. However, the contents, format, and structure of the
+data is highly inconsistent across jurisdictions, and each datum requires
+different ways of being printed, transmitted, and displayed. The goal was to
+design a system that is unified in its approach to specify data, and is
+amenable to future ""unknown unknowns"". We have developed a domain-specific
+language in Common Lisp which allows the specification of complex data with
+evolving formats and structure, and is inter-operable with the Common Lisp
+language. The resultant system has enabled the easy handling of complex
+evolving information in the general criminal data environment and has made it
+possible to manage and extend the system in a high-paced market. The language
+has allowed the principal product of Secure Outcomes Inc. to enjoy success with
+over 50 users throughout the United States.",
+Common Market Law Review,http://arxiv.org/abs/physics/0607014v3,Inverse cubic law of index fluctuation distribution in Indian markets,"One of the principal statistical features characterizing the activity in
+financial markets is the distribution of fluctuations in market indicators such
+as the index. While the developed stock markets, e.g., the New York Stock
+Exchange (NYSE) have been found to show heavy-tailed return distribution with a
+characteristic power-law exponent, the universality of such behavior has been
+debated, particularly in regard to emerging markets. Here we investigate the
+distribution of several indices from the Indian financial market, one of the
+largest emerging markets in the world. We have used tick-by-tick data from the
+National Stock Exchange (NSE), as well as, daily closing data from both NSE and
+Bombay Stock Exchange (BSE). We find that the cumulative distributions of index
+returns have long tails consistent with a power-law having exponent \alpha
+\approx 3, at time-scales of both 1 min and 1 day. This ``inverse cubic law''
+is quantitatively similar to what has been observed in developed markets,
+thereby providing strong evidence of universality in the behavior of market
+fluctuations.","Physica A, 387 (2008) 2055-2065"
+Common Market Law Review,http://arxiv.org/abs/1910.01615v1,Fair Division of Goods with Market Values,"Inheritances, divorces or liquidations of companies require that a common
+asset is divided among the entitled parties. Legal methods usually consider the
+market value of goods, while fair division procedures take into account the
+parties' preferences expressed as cardinal utilities. We combine the two
+practices to define two procedures that optimally allocate goods with market
+values to people with preferences.",
+Common Market Law Review,http://arxiv.org/abs/1009.0309v1,A Complexity View of Markets with Social Influence,"In this paper, inspired by the work of Megiddo on the formation of
+preferences and strategic analysis, we consider an early market model studied
+in the field of economic theory, in which each trader's utility may be
+influenced by the bundles of goods obtained by her social neighbors. The goal
+of this paper is to understand and characterize the impact of social influence
+on the complexity of computing and approximating market equilibria.
+  We present complexity-theoretic and algorithmic results for approximating
+market equilibria in this model with focus on two concrete influence models
+based on the traditional linear utility functions. Recall that an Arrow-Debreu
+market equilibrium in a conventional exchange market with linear utility
+functions can be computed in polynomial time by convex programming. Our
+complexity results show that even a bounded-degree, planar influence network
+can significantly increase the difficulty of equilibrium computation even in
+markets with only a constant number of goods. Our algorithmic results suggest
+that finding an approximate equilibrium in markets with hierarchical influence
+networks might be easier than that in markets with arbitrary neighborhood
+structures. By demonstrating a simple market with a constant number of goods
+and a bounded-degree, planar influence graph whose equilibrium is PPAD-hard to
+approximate, we also provide a counterexample to a common belief, which we
+refer to as the myth of a constant number of goods, that equilibria in markets
+with a constant number of goods are easy to compute or easy to approximate.",
+Common Market Law Review,http://arxiv.org/abs/physics/0605247v1,"The Power (Law) of Indian Markets: Analysing NSE and BSE trading
+  statistics","The nature of fluctuations in the Indian financial market is analyzed in this
+paper. We have looked at the price returns of individual stocks, with
+tick-by-tick data from the National Stock Exchange (NSE) and daily closing
+price data from both NSE and the Bombay Stock Exchange (BSE), the two largest
+exchanges in India. We find that the price returns in Indian markets follow a
+fat-tailed cumulative distribution, consistent with a power law having exponent
+$\alpha \sim 3$, similar to that observed in developed markets. However, the
+distributions of trading volume and the number of trades have a different
+nature than that seen in the New York Stock Exchange (NYSE). Further, the price
+movement of different stocks are highly correlated in Indian markets.","Econophysics of Stock and Other Markets (Springer, Milan, 2006) p.
+  24-34"
+Common Market Law Review,http://arxiv.org/abs/physics/0504143v1,"The law of large numbers for completely random behavior of market
+  participants. Quantum economics","In this paper, we briefly discuss a mathematical concept that can be used in
+economics.",
+Common Market Law Review,http://arxiv.org/abs/cs/0109108v1,"Spectrum auctions, pricing and network expansion in wireless
+  telecommunications","This paper examines the effects of licensing conditions, in particular of
+spectrum fees, on the pricing and diffusion of mobile communications services.
+Seemingly exorbitant sums paid for 3G licenses in the UK, Germany in 2000 and
+similarly high fees paid by U.S. carriers in the re-auctioning of PCS licenses
+early in 2001 raised concerns as to the impacts of the market entry regime on
+the mobile communications market.
+  The evidence from the GSM and PCS markets reviewed in this paper suggests
+that market entry fees do indeed influence the subsequent development of the
+market. We discuss three potential transmission channels by which license fees
+can influence the price and quantity of service sold in a wireless market: an
+increase in average cost, an increase in incremental costs, and impacts of sunk
+costs on the emerging market structure.
+  From this conceptual debate, an empirical model is developed and tested using
+cross-sectional data for the residential mobile voice market. We utilize a
+structural equation approach, modeling the supply and demand relationships
+subject to the constraint that supply equals demand. The results confirm the
+existence of a positive effect of license fees on the cost of supply. However,
+we also find that higher market concentration has a positive effect on the
+overall supply in the market, perhaps supporting a Schumpeterian view that a
+certain degree of market concentration facilitates efficiency.",
+Common Market Law Review,http://arxiv.org/abs/1902.09277v1,"Design of auction-based approach for market clearing in peer-to-peer
+  market platform","This paper designs a market platform for Peer-to-Peer (P2P) energy trading in
+Transactive Energy (TE) systems, where prosumers and consumers actively
+participate in the market as seller or buyer to trade energy. An auction-based
+approach is used for market clearing in the proposed platform and a review of
+different types of auction is performed. The appropriate auction approach for
+market clearing in the proposed platform is designed. The proposed auction
+mechanism is implemented in three steps namely determination, allocation and
+payment. This paper identifies important P2P market clearing performance
+indices, which are used to compare and contrast the designed auction with
+different types of auction mechanisms. Comparative studies demonstrate the
+efficacy of the proposed auction mechanism for market clearing in the P2P
+platform.",
+Common Market Law Review,http://arxiv.org/abs/physics/0606213v3,Self-organization of price fluctuation distribution in evolving markets,"Financial markets can be seen as complex systems in non-equilibrium steady
+state, one of whose most important properties is the distribution of price
+fluctuations. Recently, there have been assertions that this distribution is
+qualitatively different in emerging markets as compared to developed markets.
+Here we analyse both high-frequency tick-by-tick as well as daily closing price
+data to show that the price fluctuations in the Indian stock market, one of the
+largest emerging markets, have a distribution that is identical to that
+observed for developed markets (e.g., NYSE). In particular, the cumulative
+distribution has a long tail described by a power law with an exponent $\alpha
+\approx 3$. Also, we study the historical evolution of this distribution over
+the period of existence of the National Stock Exchange (NSE) of India, which
+coincided with the rapid transformation of the Indian economy due to
+liberalization, and show that this power law tail has been present almost
+throughout. We conclude that the ``inverse cubic law'' is a truly universal
+feature of a financial market, independent of its stage of development or the
+condition of the underlying economy.","Europhys. Lett., 77, 58004 (2007)"
+Common Market Law Review,http://arxiv.org/abs/0708.2053v2,Fluctuation scaling in complex systems: Taylor's law and beyond,"Complex systems consist of many interacting elements which participate in
+some dynamical process. The activity of various elements is often different and
+the fluctuation in the activity of an element grows monotonically with the
+average activity. This relationship is often of the form ""$fluctuations \approx
+const.\times average^\alpha$"", where the exponent $\alpha$ is predominantly in
+the range $[1/2, 1]$. This power law has been observed in a very wide range of
+disciplines, ranging from population dynamics through the Internet to the stock
+market and it is often treated under the names \emph{Taylor's law} or
+\emph{fluctuation scaling}. This review attempts to show how general the above
+scaling relationship is by surveying the literature, as well as by reporting
+some new empirical data and model calculations. We also show some basic
+principles that can underlie the generality of the phenomenon. This is followed
+by a mean-field framework based on sums of random variables. In this context
+the emergence of fluctuation scaling is equivalent to some corresponding limit
+theorems. In certain physical systems fluctuation scaling can be related to
+finite size scaling.","Advances in Physics 57, 89-142 (2008)"
+cross-border merger,http://arxiv.org/abs/1011.0534v1,Merger Dynamics in Three-Agent Games,"We present the effect of mergers in the dynamics of the three-agent model
+studied by Ben-Naim, Kahng and Kim and by Rador and Mungan. Mergers are
+possible in three-agent games because two agents can combine forces against the
+third player and thus increase their probability to win a competition. We
+implement mergers in this three-agent model via resolving merger and no-merger
+units of competition in terms of a two-agent unit. This way one needs only a
+single parameter which we have called the competitiveness parameter. We have
+presented an analytical solution in the fully competitive limit. In this limit
+the score distribution of agents is stratified and self-similar.","Eur. Phys. J. B 83, 289 - 299, 2011"
+cross-border merger,http://arxiv.org/abs/1210.3893v1,Merger of Long Vortex Filaments,"This fluid dynamics video demonstrates the merger of long vortex filaments is
+shown experimentally. Two counter-rotating vortices are generated using in a
+tank with very high aspect ratio. PIV demonstrates the merger of the vortices
+within a single orbit.",
+cross-border conversion,http://arxiv.org/abs/0804.2373v1,Fast Conversion Algorithms for Orthogonal Polynomials,"We discuss efficient conversion algorithms for orthogonal polynomials. We
+describe a known conversion algorithm from an arbitrary orthogonal basis to the
+monomial basis, and deduce a new algorithm of the same complexity for the
+converse operation.",
+cross-border conversion,http://arxiv.org/abs/1906.06893v1,"Interconnected Question Generation with Coreference Alignment and
+  Conversation Flow Modeling","We study the problem of generating interconnected questions in
+question-answering style conversations. Compared with previous works which
+generate questions based on a single sentence (or paragraph), this setting is
+different in two major aspects: (1) Questions are highly conversational. Almost
+half of them refer back to conversation history using coreferences. (2) In a
+coherent conversation, questions have smooth transitions between turns. We
+propose an end-to-end neural model with coreference alignment and conversation
+flow modeling. The coreference alignment modeling explicitly aligns coreferent
+mentions in conversation history with corresponding pronominal references in
+generated questions, which makes generated questions interconnected to
+conversation history. The conversation flow modeling builds a coherent
+conversation by starting questioning on the first few sentences in a text
+passage and smoothly shifting the focus to later parts. Extensive experiments
+show that our system outperforms several baselines and can generate highly
+conversational questions. The code implementation is released at
+https://github.com/Evan-Gao/conversational-QG.",
+cross-border conversion,http://arxiv.org/abs/1402.0586v1,Topic Segmentation and Labeling in Asynchronous Conversations,"Topic segmentation and labeling is often considered a prerequisite for
+higher-level conversation analysis and has been shown to be useful in many
+Natural Language Processing (NLP) applications. We present two new corpora of
+email and blog conversations annotated with topics, and evaluate annotator
+reliability for the segmentation and labeling tasks in these asynchronous
+conversations. We propose a complete computational framework for topic
+segmentation and labeling in asynchronous conversations. Our approach extends
+state-of-the-art methods by considering a fine-grained structure of an
+asynchronous conversation, along with other conversational features by applying
+recent graph-based methods for NLP. For topic segmentation, we propose two
+novel unsupervised models that exploit the fine-grained conversational
+structure, and a novel graph-theoretic supervised model that combines lexical,
+conversational and topic features. For topic labeling, we propose two novel
+(unsupervised) random walk models that respectively capture conversation
+specific clues from two different sources: the leading sentences and the
+fine-grained conversational structure. Empirical evaluation shows that the
+segmentation and the labeling performed by our best models beat the
+state-of-the-art, and are highly correlated with human annotations.","Journal Of Artificial Intelligence Research, Volume 47, pages
+  521-573, 2013"
+cross-border conversion,http://arxiv.org/abs/1901.06525v1,"What Makes a Good Conversation? Challenges in Designing Truly
+  Conversational Agents","Conversational agents promise conversational interaction but fail to deliver.
+Efforts often emulate functional rules from human speech, without considering
+key characteristics that conversation must encapsulate. Given its potential in
+supporting long-term human-agent relationships, it is paramount that HCI
+focuses efforts on delivering this promise. We aim to understand what people
+value in conversation and how this should manifest in agents. Findings from a
+series of semi-structured interviews show people make a clear dichotomy between
+social and functional roles of conversation, emphasising the long-term dynamics
+of bond and trust along with the importance of context and relationship stage
+in the types of conversations they have. People fundamentally questioned the
+need for bond and common ground in agent communication, shifting to more
+utilitarian definitions of conversational qualities. Drawing on these findings
+we discuss key challenges for conversational agent design, most notably the
+need to redefine the design parameters for conversational agent interaction.",
+cross-border conversion,http://arxiv.org/abs/1911.02707v1,Conversation Generation with Concept Flow,"Human conversations naturally evolve around related entities and connected
+concepts, while may also shift from topic to topic. This paper presents
+ConceptFlow, which leverages commonsense knowledge graphs to explicitly model
+such conversation flows for better conversation response generation.
+ConceptFlow grounds the conversation inputs to the latent concept space and
+represents the potential conversation flow as a concept flow along the
+commonsense relations. The concept is guided by a graph attention mechanism
+that models the possibility of the conversation evolving towards different
+concepts. The conversation response is then decoded using the encodings of both
+utterance texts and concept flows, integrating the learned conversation
+structure in the concept space. Our experiments on Reddit conversations
+demonstrate the advantage of ConceptFlow over previous commonsense aware dialog
+models and fine-tuned GPT-2 models, while using much fewer parameters but with
+explicit modeling of conversation structures.",
+cross-border conversion,http://arxiv.org/abs/1312.0455v1,Radix Conversion for IEEE754-2008 Mixed Radix Floating-Point Arithmetic,"Conversion between binary and decimal floating-point representations is
+ubiquitous. Floating-point radix conversion means converting both the exponent
+and the mantissa. We develop an atomic operation for FP radix conversion with
+simple straight-line algorithm, suitable for hardware design. Exponent
+conversion is performed with a small multiplication and a lookup table. It
+yields the correct result without error. Mantissa conversion uses a few
+multiplications and a small lookup table that is shared amongst all types of
+conversions. The accuracy changes by adjusting the computing precision.",
+cross-border conversion,http://arxiv.org/abs/1906.11604v1,"Gated Embeddings in End-to-End Speech Recognition for
+  Conversational-Context Fusion","We present a novel conversational-context aware end-to-end speech recognizer
+based on a gated neural network that incorporates
+conversational-context/word/speech embeddings. Unlike conventional speech
+recognition models, our model learns longer conversational-context information
+that spans across sentences and is consequently better at recognizing long
+conversations. Specifically, we propose to use the text-based external word
+and/or sentence embeddings (i.e., fastText, BERT) within an end-to-end
+framework, yielding a significant improvement in word error rate with better
+conversational-context representation. We evaluated the models on the
+Switchboard conversational speech corpus and show that our model outperforms
+standard end-to-end speech recognition models.",
+cross-border conversion,http://arxiv.org/abs/1905.11553v2,Target-Guided Open-Domain Conversation,"Many real-world open-domain conversation applications have specific goals to
+achieve during open-ended chats, such as recommendation, psychotherapy,
+education, etc. We study the problem of imposing conversational goals on
+open-domain chat agents. In particular, we want a conversational system to chat
+naturally with human and proactively guide the conversation to a designated
+target subject. The problem is challenging as no public data is available for
+learning such a target-guided strategy. We propose a structured approach that
+introduces coarse-grained keywords to control the intended content of system
+responses. We then attain smooth conversation transition through turn-level
+supervised learning, and drive the conversation towards the target with
+discourse-level constraints. We further derive a keyword-augmented conversation
+dataset for the study. Quantitative and human evaluations show our system can
+produce meaningful and effective conversations, significantly improving over
+other approaches.",
+cross-border conversion,http://arxiv.org/abs/1910.07514v1,Designing Style Matching Conversational Agents,"Advances in machine intelligence have enabled conversational interfaces that
+have the potential to radically change the way humans interact with machines.
+However, even with the progress in the abilities of these agents, there remain
+critical gaps in their capacity for natural interactions. One limitation is
+that the agents are often monotonic in behavior and do not adapt to their
+partner. We built two end-to-end conversational agents: a voice-based agent
+that can engage in naturalistic, multi-turn dialogue and align with the
+interlocutor's conversational style, and a 2nd, expressive, embodied
+conversational agent (ECA) that can recognize human behavior during open-ended
+conversations and automatically align its responses to the visual and
+conversational style of the other party. The embodied conversational agent
+leverages multimodal inputs to produce rich and perceptually valid vocal and
+facial responses (e.g., lip syncing and expressions) during the conversation.
+Based on empirical results from a set of user studies, we highlight several
+significant challenges in building such systems and provide design guidelines
+for multi-turn dialogue interactions using style adaptation for future
+research.",
+cross-border conversion,http://arxiv.org/abs/1208.5951v1,Single Photon Adiabatic Wavelength Conversion,"Adiabatic wavelength conversion is experimentally demonstrated at a single
+photon power-level using an integrated Silicon ring resonator. This approach
+allows conversion of a photon to arbitrary wavelengths with no energy or phase
+matching constraints. The conversion is inherently low-noise and efficient with
+greater than 10% conversion efficiencies for wavelength changes up to 0.5nm,
+more than twenty times the resonators line-width. The observed wavelength
+change and efficiency agrees well with theory and bright coherent light
+demonstrations. These results will enable integrated quantum optical wavelength
+conversion for application ranging from wavelength-multiplexed quantum networks
+to frequency bin entanglement.",
+cross-border conversion,http://arxiv.org/abs/1802.04425v1,"""How Was Your Weekend?"" A Generative Model of Phatic Conversation","Unspoken social rules, such as those that govern choosing a proper discussion
+topic and when to change discussion topics, guide conversational behaviors. We
+propose a computational model of conversation that can follow or break such
+rules, with participant agents that respond accordingly. Additionally, we
+demonstrate an application of the model: the Experimental Social Tutor (EST), a
+first step toward a social skills training tool that generates human-readable
+conversation and a conversational guideline at each point in the dialogue.
+Finally, we discuss the design and results of a pilot study evaluating the EST.
+Results show that our model is capable of producing conversations that follow
+social norms.",
+cross-border conversion,http://arxiv.org/abs/1808.03915v1,Addressee and Response Selection for Multilingual Conversation,"Developing conversational systems that can converse in many languages is an
+interesting challenge for natural language processing. In this paper, we
+introduce multilingual addressee and response selection. In this task, a
+conversational system predicts an appropriate addressee and response for an
+input message in multiple languages. A key to developing such multilingual
+responding systems is how to utilize high-resource language data to compensate
+for low-resource language data. We present several knowledge transfer methods
+for conversational systems. To evaluate our methods, we create a new
+multilingual conversation dataset. Experiments on the dataset demonstrate the
+effectiveness of our methods.",
+cross-border conversion,http://arxiv.org/abs/1902.07763v1,"Optomechanically amplified wavelength conversion in diamond
+  microcavities","Efficient, low noise conversion between different colors of light is a
+necessary tool for interfacing quantum optical technologies that have different
+operating wavelengths. Optomechanically mediated wavelength conversion and
+amplification is a potential method for realizing this technology, and is
+demonstrated here in microdisks fabricated from single crystal diamond -- a
+material that can host a wide range of quantum emitters. Frequency up--
+conversion is demonstrated with internal conversion efficiency of $\sim$ 45\%
+using both narrow and broadband probe fields, and optomechanical frequency
+conversion with amplification is demonstrated in the optical regime for the
+first time.",
+cross-border conversion,http://arxiv.org/abs/1909.13443v1,Using Conversational Agents To Support Learning By Teaching,"Conversational agents are becoming increasingly popular for supporting and
+facilitating learning. Conventional pedagogical agents are designed to play the
+role of human teachers by giving instructions to the students. In this paper,
+we investigate the use of conversational agents to support the
+'learning-by-teaching' paradigm where the agent receives instructions from
+students. In particular, we introduce Curiosity Notebook: an educational
+application that harvests conversational interventions to facilitate students'
+learning. Recognizing such interventions can not only help in engaging students
+within learning interactions, but also provide a deeper insight into the
+intricacies involved in designing conversational agents for educational
+purposes.",
+cross-border conversion,http://arxiv.org/abs/1909.01362v1,"Trouble on the Horizon: Forecasting the Derailment of Online
+  Conversations as they Develop","Online discussions often derail into toxic exchanges between participants.
+Recent efforts mostly focused on detecting antisocial behavior after the fact,
+by analyzing single comments in isolation. To provide more timely notice to
+human moderators, a system needs to preemptively detect that a conversation is
+heading towards derailment before it actually turns toxic. This means modeling
+derailment as an emerging property of a conversation rather than as an isolated
+utterance-level event.
+  Forecasting emerging conversational properties, however, poses several
+inherent modeling challenges. First, since conversations are dynamic, a
+forecasting model needs to capture the flow of the discussion, rather than
+properties of individual comments. Second, real conversations have an unknown
+horizon: they can end or derail at any time; thus a practical forecasting model
+needs to assess the risk in an online fashion, as the conversation develops. In
+this work we introduce a conversational forecasting model that learns an
+unsupervised representation of conversational dynamics and exploits it to
+predict future derailment as the conversation develops. By applying this model
+to two new diverse datasets of online conversations with labels for antisocial
+events, we show that it outperforms state-of-the-art systems at forecasting
+derailment.",
+cross-border conversion,http://arxiv.org/abs/1605.04462v3,"Large-scale Analysis of Counseling Conversations: An Application of
+  Natural Language Processing to Mental Health","Mental illness is one of the most pressing public health issues of our time.
+While counseling and psychotherapy can be effective treatments, our knowledge
+about how to conduct successful counseling conversations has been limited due
+to lack of large-scale data with labeled outcomes of the conversations. In this
+paper, we present a large-scale, quantitative study on the discourse of
+text-message-based counseling conversations. We develop a set of novel
+computational discourse analysis methods to measure how various linguistic
+aspects of conversations are correlated with conversation outcomes. Applying
+techniques such as sequence-based conversation models, language model
+comparisons, message clustering, and psycholinguistics-inspired word frequency
+analyses, we discover actionable conversation strategies that are associated
+with better conversation outcomes.",
+cross-border conversion,http://arxiv.org/abs/1709.04734v1,Perspectives for Evaluating Conversational AI,"Conversational AI systems are becoming famous in day to day lives. In this
+paper, we are trying to address the following key question: To identify whether
+design, as well as development efforts for search oriented conversational AI
+are successful or not.It is tricky to define 'success' in the case of
+conversational AI and equally tricky part is to use appropriate metrics for the
+evaluation of conversational AI. We propose four different perspectives namely
+user experience, information retrieval, linguistic and artificial intelligence
+for the evaluation of conversational AI systems. Additionally, background
+details of conversational AI systems are provided including desirable
+characteristics of personal assistants, differences between chatbot and an AI
+based personal assistant. An importance of personalization and how it can be
+achieved is explained in detail. Current challenges in the development of an
+ideal conversational AI (personal assistant) are also highlighted along with
+guidelines for achieving personalized experience for users.",
+cross-border conversion,http://arxiv.org/abs/1906.02738v2,"Conversing by Reading: Contentful Neural Conversation with On-demand
+  Machine Reading","Although neural conversation models are effective in learning how to produce
+fluent responses, their primary challenge lies in knowing what to say to make
+the conversation contentful and non-vacuous. We present a new end-to-end
+approach to contentful neural conversation that jointly models response
+generation and on-demand machine reading. The key idea is to provide the
+conversation model with relevant long-form text on the fly as a source of
+external knowledge. The model performs QA-style reading comprehension on this
+text in response to each conversational turn, thereby allowing for more focused
+integration of external knowledge than has been possible in prior approaches.
+To support further research on knowledge-grounded conversation, we introduce a
+new large-scale conversation dataset grounded in external web pages (2.8M
+turns, 7.4M sentences of grounding). Both human evaluation and automated
+metrics show that our approach results in more contentful responses compared to
+a variety of previous methods, improving both the informativeness and diversity
+of generated output.",
+cross-border conversion,http://arxiv.org/abs/1712.07229v1,"Attentive Memory Networks: Efficient Machine Reading for Conversational
+  Search","Recent advances in conversational systems have changed the search paradigm.
+Traditionally, a user poses a query to a search engine that returns an answer
+based on its index, possibly leveraging external knowledge bases and
+conditioning the response on earlier interactions in the search session. In a
+natural conversation, there is an additional source of information to take into
+account: utterances produced earlier in a conversation can also be referred to
+and a conversational IR system has to keep track of information conveyed by the
+user during the conversation, even if it is implicit.
+  We argue that the process of building a representation of the conversation
+can be framed as a machine reading task, where an automated system is presented
+with a number of statements about which it should answer questions. The
+questions should be answered solely by referring to the statements provided,
+without consulting external knowledge. The time is right for the information
+retrieval community to embrace this task, both as a stand-alone task and
+integrated in a broader conversational search setting.
+  In this paper, we focus on machine reading as a stand-alone task and present
+the Attentive Memory Network (AMN), an end-to-end trainable machine reading
+algorithm. Its key contribution is in efficiency, achieved by having an
+hierarchical input encoder, iterating over the input only once. Speed is an
+important requirement in the setting of conversational search, as gaps between
+conversational turns have a detrimental effect on naturalness. On 20 datasets
+commonly used for evaluating machine reading algorithms we show that the AMN
+achieves performance comparable to the state-of-the-art models, while using
+considerably fewer computations.","Proceedings of 1st International Workshop on Conversational
+  Approaches to Information Retrieval, Tokyo, Japan, August 11, 2017 (CAIR'17)"
+cross-border conversion,http://arxiv.org/abs/1805.00188v3,"Response Ranking with Deep Matching Networks and External Knowledge in
+  Information-seeking Conversation Systems","Intelligent personal assistant systems with either text-based or voice-based
+conversational interfaces are becoming increasingly popular around the world.
+Retrieval-based conversation models have the advantages of returning fluent and
+informative responses. Most existing studies in this area are on open domain
+""chit-chat"" conversations or task / transaction oriented conversations. More
+research is needed for information-seeking conversations. There is also a lack
+of modeling external knowledge beyond the dialog utterances among current
+conversational models. In this paper, we propose a learning framework on the
+top of deep neural matching networks that leverages external knowledge for
+response ranking in information-seeking conversation systems. We incorporate
+external knowledge into deep neural models with pseudo-relevance feedback and
+QA correspondence knowledge distillation. Extensive experiments with three
+information-seeking conversation data sets including both open benchmarks and
+commercial data show that, our methods outperform various baseline methods
+including several deep text matching models and the state-of-the-art method on
+response selection in multi-turn conversations. We also perform analysis over
+different response types, model variations and ranking examples. Our models and
+research findings provide new insights on how to utilize external knowledge
+with deep neural models for response selection and have implications for the
+design of the next generation of information-seeking conversation systems.",
+cross-border conversion,http://arxiv.org/abs/1701.08251v2,"Image-Grounded Conversations: Multimodal Context for Natural Question
+  and Response Generation","The popularity of image sharing on social media and the engagement it creates
+between users reflects the important role that visual context plays in everyday
+conversations. We present a novel task, Image-Grounded Conversations (IGC), in
+which natural-sounding conversations are generated about a shared image. To
+benchmark progress, we introduce a new multiple-reference dataset of
+crowd-sourced, event-centric conversations on images. IGC falls on the
+continuum between chit-chat and goal-directed conversation models, where visual
+grounding constrains the topic of conversation to event-driven utterances.
+Experiments with models trained on social media data show that the combination
+of visual and textual context enhances the quality of generated conversational
+turns. In human evaluation, the gap between human performance and that of both
+neural and retrieval architectures suggests that multi-modal IGC presents an
+interesting challenge for dialogue research.",
+cross-border conversion,http://arxiv.org/abs/1706.06987v1,A Generative Model of Group Conversation,"Conversations with non-player characters (NPCs) in games are typically
+confined to dialogue between a human player and a virtual agent, where the
+conversation is initiated and controlled by the player. To create richer, more
+believable environments for players, we need conversational behavior to reflect
+initiative on the part of the NPCs, including conversations that include
+multiple NPCs who interact with one another as well as the player. We describe
+a generative computational model of group conversation between agents, an
+abstract simulation of discussion in a small group setting. We define
+conversational interactions in terms of rules for turn taking and interruption,
+as well as belief change, sentiment change, and emotional response, all of
+which are dependent on agent personality, context, and relationships. We
+evaluate our model using a parameterized expressive range analysis, observing
+correlations between simulation parameters and features of the resulting
+conversations. This analysis confirms, for example, that character
+personalities will predict how often they speak, and that heterogeneous groups
+of characters will generate more belief change.",
+cross-border conversion,http://arxiv.org/abs/1712.08636v1,Find the Conversation Killers: a Predictive Study of Thread-ending Posts,"How to improve the quality of conversations in online communities has
+attracted considerable attention recently. Having engaged, urbane, and reactive
+online conversations has a critical effect on the social life of Internet
+users. In this study, we are particularly interested in identifying a post in a
+multi-party conversation that is unlikely to be further replied to, which
+therefore kills that thread of the conversation. For this purpose, we propose a
+deep learning model called the ConverNet. ConverNet is attractive due to its
+capability of modeling the internal structure of a long conversation and its
+appropriate encoding of the contextual information of the conversation, through
+effective integration of attention mechanisms. Empirical experiments on
+real-world datasets demonstrate the effectiveness of the proposal model. For
+the widely concerned topic, our analysis also offers implications for improving
+the quality and user experience of online conversations.",
+cross-border conversion,http://arxiv.org/abs/1801.03622v1,Topic-based Evaluation for Conversational Bots,"Dialog evaluation is a challenging problem, especially for non task-oriented
+dialogs where conversational success is not well-defined. We propose to
+evaluate dialog quality using topic-based metrics that describe the ability of
+a conversational bot to sustain coherent and engaging conversations on a topic,
+and the diversity of topics that a bot can handle. To detect conversation
+topics per utterance, we adopt Deep Average Networks (DAN) and train a topic
+classifier on a variety of question and query data categorized into multiple
+topics. We propose a novel extension to DAN by adding a topic-word attention
+table that allows the system to jointly capture topic keywords in an utterance
+and perform topic classification. We compare our proposed topic based metrics
+with the ratings provided by users and show that our metrics both correlate
+with and complement human judgment. Our analysis is performed on tens of
+thousands of real human-bot dialogs from the Alexa Prize competition and
+highlights user expectations for conversational bots.",Nips.Workshop.ConversationalAI 2017-12-08
+cross-border conversion,http://arxiv.org/abs/1805.04625v2,Strong Converse using Change of Measure Arguments,"The strong converse for a coding theorem shows that the optimal asymptotic
+rate possible with vanishing error cannot be improved by allowing a fixed
+error. Building on a method introduced by Gu and Effros for centralized coding
+problems, we develop a general and simple recipe for proving strong converse
+that is applicable for distributed problems as well. Heuristically, our proof
+of strong converse mimics the standard steps for proving a weak converse,
+except that we apply those steps to a modified distribution obtained by
+conditioning the original distribution on the event that no error occurs. A key
+component of our recipe is the replacement of the hard Markov constraints
+implied by the distributed nature of the problem with a soft information cost
+using a variational formula introduced by Oohama. We illustrate our method by
+providing a short proof of the strong converse for the Wyner-Ziv problem and
+strong converse theorems for interactive function computation, common
+randomness and secret key agreement, and the wiretap channel; the latter three
+strong converse problems were open prior to this work.",
+cross-border conversion,http://arxiv.org/abs/1808.07042v2,CoQA: A Conversational Question Answering Challenge,"Humans gather information by engaging in conversations involving a series of
+interconnected questions and answers. For machines to assist in information
+gathering, it is therefore essential to enable them to answer conversational
+questions. We introduce CoQA, a novel dataset for building Conversational
+Question Answering systems. Our dataset contains 127k questions with answers,
+obtained from 8k conversations about text passages from seven diverse domains.
+The questions are conversational, and the answers are free-form text with their
+corresponding evidence highlighted in the passage. We analyze CoQA in depth and
+show that conversational questions have challenging phenomena not present in
+existing reading comprehension datasets, e.g., coreference and pragmatic
+reasoning. We evaluate strong conversational and reading comprehension models
+on CoQA. The best system obtains an F1 score of 65.4%, which is 23.4 points
+behind human performance (88.8%), indicating there is ample room for
+improvement. We launch CoQA as a challenge to the community at
+http://stanfordnlp.github.io/coqa/",
+cross-border conversion,http://arxiv.org/abs/1812.10008v1,Alpha-conversion for lambda terms with explicit weakenings,"Using explicit weakenings, we can define alpha-conversion by simple equations
+without any mention of free variables.",
+cross-border conversion,http://arxiv.org/abs/1905.05412v2,BERT with History Answer Embedding for Conversational Question Answering,"Conversational search is an emerging topic in the information retrieval
+community. One of the major challenges to multi-turn conversational search is
+to model the conversation history to answer the current question. Existing
+methods either prepend history turns to the current question or use complicated
+attention mechanisms to model the history. We propose a conceptually simple yet
+highly effective approach referred to as history answer embedding. It enables
+seamless integration of conversation history into a conversational question
+answering (ConvQA) model built on BERT (Bidirectional Encoder Representations
+from Transformers). We first explain our view that ConvQA is a simplified but
+concrete setting of conversational search, and then we provide a general
+framework to solve ConvQA. We further demonstrate the effectiveness of our
+approach under this framework. Finally, we analyze the impact of different
+numbers of history turns under different settings to provide new insights into
+conversation history modeling in ConvQA.",
+cross-border conversion,http://arxiv.org/abs/1905.12188v1,"Exploiting Persona Information for Diverse Generation of Conversational
+  Responses","In human conversations, due to their personalities in mind, people can easily
+carry out and maintain the conversations. Giving conversational context with
+persona information to a chatbot, how to exploit the information to generate
+diverse and sustainable conversations is still a non-trivial task. Previous
+work on persona-based conversational models successfully make use of predefined
+persona information and have shown great promise in delivering more realistic
+responses. And they all learn with the assumption that given a source input,
+there is only one target response. However, in human conversations, there are
+massive appropriate responses to a given input message. In this paper, we
+propose a memory-augmented architecture to exploit persona information from
+context and incorporate a conditional variational autoencoder model together to
+generate diverse and sustainable conversations. We evaluate the proposed model
+on a benchmark persona-chat dataset. Both automatic and human evaluations show
+that our model can deliver more diverse and more engaging persona-based
+responses than baseline approaches.",
+cross-border conversion,http://arxiv.org/abs/1910.01335v1,"Topic-aware Pointer-Generator Networks for Summarizing Spoken
+  Conversations","Due to the lack of publicly available resources, conversation summarization
+has received far less attention than text summarization. As the purpose of
+conversations is to exchange information between at least two interlocutors,
+key information about a certain topic is often scattered and spanned across
+multiple utterances and turns from different speakers. This phenomenon is more
+pronounced during spoken conversations, where speech characteristics such as
+backchanneling and false-starts might interrupt the topical flow. Moreover,
+topic diffusion and (intra-utterance) topic drift are also more common in
+human-to-human conversations. Such linguistic characteristics of dialogue
+topics make sentence-level extractive summarization approaches used in spoken
+documents ill-suited for summarizing conversations. Pointer-generator networks
+have effectively demonstrated its strength at integrating extractive and
+abstractive capabilities through neural modeling in text summarization. To the
+best of our knowledge, to date no one has adopted it for summarizing
+conversations. In this work, we propose a topic-aware architecture to exploit
+the inherent hierarchical structure in conversations to further adapt the
+pointer-generator model. Our approach significantly outperforms competitive
+baselines, achieves more efficient learning outcomes, and attains more robust
+performance.",
+cross-border conversion,http://arxiv.org/abs/physics/0009070v1,Nuclear spin conversion in formaldehyde,"Theoretical model of the nuclear spin conversion in formaldehyde (H2CO) has
+been developed. The conversion is governed by the intramolecular spin-rotation
+mixing of molecular ortho and para states. The rate of conversion has been
+found equal 1.4*10^{-4}~1/s*Torr. Temperature dependence of the spin conversion
+has been predicted to be weak in the wide temperature range T=200-900 K.","J. Molecular Structure v.599, 337 (2001)"
+cross-border conversion,http://arxiv.org/abs/1110.2550v1,"Suppression of FM-to-AM conversion in third-harmonic generation at the
+  retracing point of a crystal","FM-to-AM conversion can cause many negative effects (e.g., reducing of margin
+against damage to the optics, and etc.) on performances of third-harmonic
+conversion system. In this letter, the FM-to-AM conversion effect in
+third-harmonic generation is investigated both at and away from the retracing
+point of type-II KDP crystal. Obtained results indicate that the FM-to-AM
+conversion can be suppressed effectively when the crystal works at the
+retracing point.","Optics Letters, 34(24), 3848-3850 (2009)"
+cross-border conversion,http://arxiv.org/abs/1301.1429v1,Adaptation of fictional and online conversations to communication media,"Conversations allow the quick transfer of short bits of information and it is
+reasonable to expect that changes in communication medium affect how we
+converse. Using conversations in works of fiction and in an online social
+networking platform, we show that the utterance length of conversations is
+slowly shortening with time but adapts more strongly to the constraints of the
+communication medium. This indicates that the introduction of any new medium of
+communication can affect the way natural language evolves.","Eur. Phys. J. B, vol. 85, no. 12, pp. 1-7, 2012"
+cross-border conversion,http://arxiv.org/abs/1710.07388v1,"Multi-Task Learning for Speaker-Role Adaptation in Neural Conversation
+  Models","Building a persona-based conversation agent is challenging owing to the lack
+of large amounts of speaker-specific conversation data for model training. This
+paper addresses the problem by proposing a multi-task learning approach to
+training neural conversation models that leverages both conversation data
+across speakers and other types of data pertaining to the speaker and speaker
+roles to be modeled. Experiments show that our approach leads to significant
+improvements over baseline model quality, generating responses that capture
+more precisely speakers' traits and speaking styles. The model offers the
+benefits of being algorithmically simple and easy to implement, and not relying
+on large quantities of data representing specific individual speakers.",
+cross-border conversion,http://arxiv.org/abs/1805.02275v1,"Coherence Modeling of Asynchronous Conversations: A Neural Entity Grid
+  Approach","We propose a novel coherence model for written asynchronous conversations
+(e.g., forums, emails), and show its applications in coherence assessment and
+thread reconstruction tasks. We conduct our research in two steps. First, we
+propose improvements to the recently proposed neural entity grid model by
+lexicalizing its entity transitions. Then, we extend the model to asynchronous
+conversations by incorporating the underlying conversational structure in the
+entity grid representation and feature computation. Our model achieves state of
+the art results on standard coherence assessment tasks in monologue and
+conversations outperforming existing models. We also demonstrate its
+effectiveness in reconstructing thread structures.",
+cross-border conversion,http://arxiv.org/abs/1809.00344v1,"Contextual Neural Model for Translating Bilingual Multi-Speaker
+  Conversations","Recent works in neural machine translation have begun to explore document
+translation. However, translating online multi-speaker conversations is still
+an open problem. In this work, we propose the task of translating Bilingual
+Multi-Speaker Conversations, and explore neural architectures which exploit
+both source and target-side conversation histories for this task. To initiate
+an evaluation for this task, we introduce datasets extracted from Europarl v7
+and OpenSubtitles2016. Our experiments on four language-pairs confirm the
+significance of leveraging conversation history, both in terms of BLEU and
+manual evaluation.",
+cross-border conversion,http://arxiv.org/abs/1904.01664v1,Mirroring to Build Trust in Digital Assistants,"We describe experiments towards building a conversational digital assistant
+that considers the preferred conversational style of the user. In particular,
+these experiments are designed to measure whether users prefer and trust an
+assistant whose conversational style matches their own. To this end we
+conducted a user study where subjects interacted with a digital assistant that
+responded in a way that either matched their conversational style, or did not.
+Using self-reported personality attributes and subjects' feedback on the
+interactions, we built models that can reliably predict a user's preferred
+conversational style.",
+cross-border conversion,http://arxiv.org/abs/1208.4324v1,"Characterizing Pedophile Conversations on the Internet using Online
+  Grooming","Cyber-crime targeting children such as online pedophile activity are a major
+and a growing concern to society. A deep understanding of predatory chat
+conversations on the Internet has implications in designing effective solutions
+to automatically identify malicious conversations from regular conversations.
+We believe that a deeper understanding of the pedophile conversation can result
+in more sophisticated and robust surveillance systems than majority of the
+current systems relying only on shallow processing such as simple word-counting
+or key-word spotting.
+  In this paper, we study pedophile conversations from the perspective of
+online grooming theory and perform a series of linguistic-based empirical
+analysis on several pedophile chat conversations to gain useful insights and
+patterns. We manually annotated 75 pedophile chat conversations with six stages
+of online grooming and test several hypothesis on it. The results of our
+experiments reveal that relationship forming is the most dominant online
+grooming stage in contrast to the sexual stage. We use a widely used
+word-counting program (LIWC) to create psycho-linguistic profiles for each of
+the six online grooming stages to discover interesting textual patterns useful
+to improve our understanding of the online pedophile phenomenon. Furthermore,
+we present empirical results that throw light on various aspects of a pedophile
+conversation such as probability of state transitions from one stage to
+another, distribution of a pedophile chat conversation across various online
+grooming stages and correlations between pre-defined word categories and online
+grooming stages.",
+cross-border conversion,http://arxiv.org/abs/1812.09321v2,Multiple topic identification in telephone conversations,"This paper deals with the automatic analysis of conversations between a
+customer and an agent in a call centre of a customer care service. The purpose
+of the analysis is to hypothesize themes about problems and complaints
+discussed in the conversation. Themes are defined by the application
+documentation topics. A conversation may contain mentions that are irrelevant
+for the application purpose and multiple themes whose mentions may be
+interleaved portions of a conversation that cannot be well defined. Two methods
+are proposed for multiple theme hypothesization. One of them is based on a
+cosine similarity measure using a bag of features extracted from the entire
+conversation. The other method introduces the concept of thematic density
+distributed around specific word positions in a conversation. In addition to
+automatically selected words, word bi-grams with possible gaps between
+successive words are also considered and selected. Experimental results show
+that the results obtained with the proposed methods outperform the results
+obtained with support vector machines on the same data. Furthermore, using the
+theme skeleton of a conversation from which thematic densities are derived, it
+will be possible to extract components of an automatic conversation report to
+be used for improving the service performance. Index Terms: multi-topic audio
+document classification, hu-man/human conversation analysis, speech analytics,
+distance bigrams","Interspeech, Aug 2013, Lyon, France"
+cross-border conversion,http://arxiv.org/abs/1906.05572v2,Proactive Human-Machine Conversation with Explicit Conversation Goals,"Though great progress has been made for human-machine conversation, current
+dialogue system is still in its infancy: it usually converses passively and
+utters words more as a matter of response, rather than on its own initiatives.
+In this paper, we take a radical step towards building a human-like
+conversational agent: endowing it with the ability of proactively leading the
+conversation (introducing a new topic or maintaining the current topic). To
+facilitate the development of such conversation systems, we create a new
+dataset named DuConv where one acts as a conversation leader and the other acts
+as the follower. The leader is provided with a knowledge graph and asked to
+sequentially change the discussion topics, following the given conversation
+goal, and meanwhile keep the dialogue as natural and engaging as possible.
+DuConv enables a very challenging task as the model needs to both understand
+dialogue and plan over the given knowledge graph. We establish baseline results
+on this dataset (about 270K utterances and 30k dialogues) using several
+state-of-the-art models. Experimental results show that dialogue models that
+plan over the knowledge graph can make full use of related knowledge to
+generate more diverse multi-turn conversations. The baseline systems along with
+the dataset are publicly available",
+cross-border conversion,http://arxiv.org/abs/1908.09456v1,Attentive History Selection for Conversational Question Answering,"Conversational question answering (ConvQA) is a simplified but concrete
+setting of conversational search. One of its major challenges is to leverage
+the conversation history to understand and answer the current question. In this
+work, we propose a novel solution for ConvQA that involves three aspects.
+First, we propose a positional history answer embedding method to encode
+conversation history with position information using BERT in a natural way.
+BERT is a powerful technique for text representation. Second, we design a
+history attention mechanism (HAM) to conduct a ""soft selection"" for
+conversation histories. This method attends to history turns with different
+weights based on how helpful they are on answering the current question. Third,
+in addition to handling conversation history, we take advantage of multi-task
+learning (MTL) to do answer prediction along with another essential
+conversation task (dialog act prediction) using a uniform model architecture.
+MTL is able to learn more expressive and generic representations to improve the
+performance of ConvQA. We demonstrate the effectiveness of our model with
+extensive experimental evaluations on QuAC, a large-scale ConvQA dataset. We
+show that position information plays an important role in conversation history
+modeling. We also visualize the history attention and provide new insights into
+conversation history understanding.",
+cross-border conversion,http://arxiv.org/abs/cs/0205055v1,"Practical Strategies for Integrating a Conversation Analyst in an
+  Iterative Design Process","We present a case study of an iterative design process that includes a
+conversation analyst. We discuss potential benefits of conversation analysis
+for design, and we describe our strategies for integrating the conversation
+analyst in the design process. Since the analyst on our team had no previous
+exposure to design or engineering, and none of the other members of our team
+had any experience with conversation analysis, we needed to build a foundation
+for our interaction. One of our key strategies was to pair the conversation
+analyst with a designer in a highly interactive collaboration. Our tactics have
+been effective on our project, leading to valuable results that we believe we
+could not have obtained using another method. We hope that this paper can serve
+as a practical guide to those interested in establishing a productive and
+efficient working relationship between a conversation analyst and the other
+members of a design team.","Proc. ACM Conf. on Designing Interactive Systems, London, UK, June
+  2002, 19-28. ACM Press."
+cross-border conversion,http://arxiv.org/abs/cs/0304002v1,"The Mad Hatter&acute;s Cocktail Party: A Social Mobile Audio Space
+  Supporting Multiple Simultaneous Conversations","This paper presents a mobile audio space intended for use by gelled social
+groups. In face-to-face interactions in such social groups, conversational
+floors change frequently, e.g., two participants split off to form a new
+conversational floor, a participant moves from one conversational floor to
+another, etc. To date, audio spaces have provided little support for such
+dynamic regroupings of participants, either requiring that the participants
+explicitly specify with whom they wish to talk or simply presenting all
+participants as though they are in a single floor. By contrast, the audio space
+described here monitors participant behavior to identify conversational floors
+as they emerge. The system dynamically modifies the audio delivered to each
+participant to enhance the salience of the participants with whom they are
+currently conversing. We report a user study of the system, focusing on
+conversation analytic results.","Proc. ACM SIGCHI Conf. on Human Factors in Computing Systems, Ft.
+  Lauderdale, FL, Apr. 2003, 425-432. ACM Press."
+cross-border conversion,http://arxiv.org/abs/1010.2943v1,The roundtable: an abstract model of conversation dynamics,"Is it possible to abstract a formal mechanism originating schisms and
+governing the size evolution of social conversations? In this work a
+constructive solution to such problem is proposed: an abstract model of a
+generic N-party turn-taking conversation. The model develops from simple yet
+realistic assumptions derived from experimental evidence, abstracts from
+conversation content and semantics while including topological information, and
+is driven by stochastic dynamics. We find that a single mechanism - namely the
+dynamics of conversational party's individual fitness, as related to
+conversation size - controls the development of the self-organized schisming
+phenomenon. Potential generalizations of the model - including individual
+traits and preferences, memory effects and more elaborated conversational
+topologies - may find important applications also in other fields of research,
+where dynamically-interacting and networked agents play a fundamental role.","Journal of Artificial Societies and Social Simulation 13, 4 (2010)"
+cross-border conversion,http://arxiv.org/abs/1411.0319v3,"Achievable and Converse bounds over a general channel and general
+  decoding metric","Achievable and converse bounds for general channels and mismatched decoding
+are derived. The direct (achievable) bound is derived using random coding and
+the analysis is tight up to factor 2. The converse is given in term of the
+achievable bound and the factor between them is given. This gives performance
+of the best rate-R code with possible mismatched decoding metric over a general
+channel, up to the factor that is identified. In the matched case we show that
+the converse equals the minimax meta-converse of Polyanskiy et al.",
+cross-border conversion,http://arxiv.org/abs/1307.6319v1,"Kinetic simulation of the O-X conversion process in dense magnetized
+  plasmas","The ordinary-extraordinary-Bernstein (O-X-B) double conversion is considered
+and simulated with a kinetic particle model vs full wave model for parameters
+of the TJ-II stellarator. This simulation has been done with the
+particle-in-cell code, XOOPIC (X11-based object-oriented particle-incell).
+XOOPIC is able to model the non-monotonic density and magnetic profile of
+TJ-II. The first step of conversion, O-X conversion, is observed clearly. By
+applying some optimizations such as increasing the number of computational
+particles in the region of the X-B conversion, the simulation of the second
+step is also possible. By considering the electric and magnetic components of
+launched and reflected waves, the O-mode wave and the X-mode wave can be easily
+detected. Via considering the power of launched O-mode wave and converted
+X-mode wave, the efficiency of O-X conversion for the best theoretical launch
+angle is obtained, which is in good agreement with previous computed
+efficiencies via full-wave simulations. For the optimum angle of 47? between
+the wave-vector of the incident O-mode wave and the external magnetic field,
+the conversion efficiency is 66%.",
+cross-border conversion,http://arxiv.org/abs/1405.6824v1,"When Politicians Talk: Assessing Online Conversational Practices of
+  Political Parties on Twitter","Assessing political conversations in social media requires a deeper
+understanding of the underlying practices and styles that drive these
+conversations. In this paper, we present a computational approach for assessing
+online conversational practices of political parties. Following a deductive
+approach, we devise a number of quantitative measures from a discussion of
+theoretical constructs in sociological theory. The resulting measures make
+different - mostly qualitative - aspects of online conversational practices
+amenable to computation. We evaluate our computational approach by applying it
+in a case study. In particular, we study online conversational practices of
+German politicians on Twitter during the German federal election 2013. We find
+that political parties share some interesting patterns of behavior, but also
+exhibit some unique and interesting idiosyncrasies. Our work sheds light on (i)
+how complex cultural phenomena such as online conversational practices are
+amenable to quantification and (ii) the way social media such as Twitter are
+utilized by political parties.",
+cross-border conversion,http://arxiv.org/abs/1510.02527v1,"Efficient and low-noise single-photon-level frequency conversion
+  interfaces using silicon nanophotonics","Optical frequency conversion has applications ranging from tunable light
+sources to telecommunications-band interfaces for quantum information science.
+Here, we demonstrate efficient, low-noise frequency conversion on a
+nanophotonic chip through four-wave-mixing Bragg scattering in compact
+(footprint < 0.5 x 10^-4 cm^2) Si3N4 microring resonators. We investigate three
+frequency conversion configurations: (1) spectral translation over a few
+nanometers within the 980 nm band, (2) upconversion from 1550 nm to 980 nm, and
+(3) downconversion from 980 nm to 1550 nm. With conversion efficiencies ranging
+from 25 % for the first process to > 60 % for the last two processes, a signal
+conversion bandwidth > 1 GHz, < 60 mW of continuous-wave pump power needed, and
+background noise levels between a few fW and a few pW, these devices are
+suitable for quantum frequency conversion of single photon states from InAs
+quantum dots. Simulations based on coupled mode equations and the
+Lugiato-Lefever equation are used to model device performance, and show
+quantitative agreement with measurements.","Nature Photonics, Vol. 10, pp. 406-414 (2016)"
+cross-border conversion,http://arxiv.org/abs/1412.3511v1,"Optimizing optical Bragg scattering for single-photon frequency
+  conversion","We develop a systematic theory for optimising single-photon frequency
+conversion using optical Bragg scattering. The efficiency and phase-matching
+conditions for the desired Bragg scattering conversion as well as spurious
+scattering and modulation instability are identified. We find that third-order
+dispersion can suppress unwanted processes, while dispersion above the fourth
+order limits the maximum conversion efficiency. We apply the optimisation
+conditions to frequency conversion in highly nonlinear fiber, silicon nitride
+waveguides and silicon nanowires. Efficient conversion is confirmed using full
+numerical simulations. These design rules will assist the development of
+efficient quantum frequency conversion between multicolour single photon
+sources for integration in complex quantum networks.","Phys. Rev. A 91, 013837 (2015)"
+cross-border conversion,http://arxiv.org/abs/1604.04358v1,"StalemateBreaker: A Proactive Content-Introducing Approach to Automatic
+  Human-Computer Conversation","Existing open-domain human-computer conversation systems are typically
+passive: they either synthesize or retrieve a reply provided a human-issued
+utterance. It is generally presumed that humans should take the role to lead
+the conversation and introduce new content when a stalemate occurs, and that
+the computer only needs to ""respond."" In this paper, we propose
+StalemateBreaker, a conversation system that can proactively introduce new
+content when appropriate. We design a pipeline to determine when, what, and how
+to introduce new content during human-computer conversation. We further propose
+a novel reranking algorithm Bi-PageRank-HITS to enable rich interaction between
+conversation context and candidate replies. Experiments show that both the
+content-introducing approach and the reranking algorithm are effective. Our
+full StalemateBreaker model outperforms a state-of-the-practice conversation
+system by +14.4% p@1 when a stalemate occurs.",
+cross-border conversion,http://arxiv.org/abs/1609.09028v2,"Stance Classification in Rumours as a Sequential Task Exploiting the
+  Tree Structure of Social Media Conversations","Rumour stance classification, the task that determines if each tweet in a
+collection discussing a rumour is supporting, denying, questioning or simply
+commenting on the rumour, has been attracting substantial interest. Here we
+introduce a novel approach that makes use of the sequence of transitions
+observed in tree-structured conversation threads in Twitter. The conversation
+threads are formed by harvesting users' replies to one another, which results
+in a nested tree-like structure. Previous work addressing the stance
+classification task has treated each tweet as a separate unit. Here we analyse
+tweets by virtue of their position in a sequence and test two sequential
+classifiers, Linear-Chain CRF and Tree CRF, each of which makes different
+assumptions about the conversational structure. We experiment with eight
+Twitter datasets, collected during breaking news, and show that exploiting the
+sequential structure of Twitter conversations achieves significant improvements
+over the non-sequential methods. Our work is the first to model Twitter
+conversations as a tree structure in this manner, introducing a novel way of
+tackling NLP tasks on Twitter conversations.",
+cross-border conversion,http://arxiv.org/abs/1609.09547v1,"Competitive Propagation: Models, Asymptotic Behavior and Multi-stage
+  Games","In this paper we propose a class of propagation models for multiple competing
+products over a social network. We consider two propagation mechanisms: social
+conversion and self conversion, corresponding, respectively, to endogenous and
+exogenous factors. A novel concept, the product-conversion graph, is proposed
+to characterize the interplay among competing products. According to the
+chronological order of social and self conversions, we develop two Markov-chain
+models and, based on the independence approximation, we approximate them with
+two respective difference equations systems.
+  Theoretical analysis on these two approximation models reveals the dependency
+of the systems' asymptotic behavior on the structures of both the
+product-conversion graph and the social network, as well as the initial
+condition. In addition to the theoretical work, accuracy of the independence
+approximation and the asymptotic behavior of the Markov-chain model are
+investigated via numerical analysis, for the case where social conversion
+occurs before self conversion.
+  Finally, we propose a class of multi-player and multi-stage competitive
+propagation games and discuss the seeding-quality trade-off, as well as the
+allocation of seeding resources among the individuals. We investigate the
+unique Nash equilibrium at each stage and analyze the system's behavior when
+every player is adopting the policy at the Nash equilibrium.",
+cross-border conversion,http://arxiv.org/abs/1709.05411v1,"Combining Search with Structured Data to Create a More Engaging User
+  Experience in Open Domain Dialogue","The greatest challenges in building sophisticated open-domain conversational
+agents arise directly from the potential for ongoing mixed-initiative
+multi-turn dialogues, which do not follow a particular plan or pursue a
+particular fixed information need. In order to make coherent conversational
+contributions in this context, a conversational agent must be able to track the
+types and attributes of the entities under discussion in the conversation and
+know how they are related. In some cases, the agent can rely on structured
+information sources to help identify the relevant semantic relations and
+produce a turn, but in other cases, the only content available comes from
+search, and it may be unclear which semantic relations hold between the search
+results and the discourse context. A further constraint is that the system must
+produce its contribution to the ongoing conversation in real-time. This paper
+describes our experience building SlugBot for the 2017 Alexa Prize, and
+discusses how we leveraged search and structured data from different sources to
+help SlugBot produce dialogic turns and carry on conversations whose length
+over the semi-finals user evaluation period averaged 8:17 minutes.",Search-Oriented Conversational AI (SCAI) 2017
+cross-border conversion,http://arxiv.org/abs/1712.09943v3,Toward Continual Learning for Conversational Agents,"While end-to-end neural conversation models have led to promising advances in
+reducing hand-crafted features and errors induced by the traditional complex
+system architecture, they typically require an enormous amount of data due to
+the lack of modularity. Previous studies adopted a hybrid approach with
+knowledge-based components either to abstract out domain-specific information
+or to augment data to cover more diverse patterns. On the contrary, we propose
+to directly address the problem using recent developments in the space of
+continual learning for neural models. Specifically, we adopt a
+domain-independent neural conversational model and introduce a novel neural
+continual learning algorithm that allows a conversational agent to accumulate
+skills across different tasks in a data-efficient way. To the best of our
+knowledge, this is the first work that applies continual learning to
+conversation systems. We verified the efficacy of our method through a
+conversational skill transfer from either synthetic dialogs or human-human
+dialogs to human-computer conversations in a customer support domain.",
+cross-border conversion,http://arxiv.org/abs/1801.08693v1,"Improved Finite Blocklength Converses for Slepian-Wolf Coding via Linear
+  Programming","A new finite blocklength converse for the Slepian- Wolf coding problem is
+presented which significantly improves on the best known converse for this
+problem, due to Miyake and Kanaya [2]. To obtain this converse, an extension of
+the linear programming (LP) based framework for finite blocklength point-
+to-point coding problems from [3] is employed. However, a direct application of
+this framework demands a complicated analysis for the Slepian-Wolf problem. An
+analytically simpler approach is presented wherein LP-based finite blocklength
+converses for this problem are synthesized from point-to-point lossless source
+coding problems with perfect side-information at the decoder. New finite
+blocklength metaconverses for these point-to-point problems are derived by
+employing the LP-based framework, and the new converse for Slepian-Wolf coding
+is obtained by an appropriate combination of these converses.",
+cross-border conversion,http://arxiv.org/abs/1802.09055v1,"Domain Specific Design Patterns: Designing For Conversational User
+  Interfaces","Designing conversational user interface experience is complicated because
+conversation comes with many expectations. When these expectations are met, we
+feel the interface is natural, but once violated, we feel something is amiss.
+The last decade witnessed human language technologies and behaviours to enable
+humans converse with software using spoken dialogue to access, create and
+process information. Less is known about the practicalities of designing
+chatbot interactions. In this paper, we introduce the nature of conversational
+user interfaces (CUIs) and describe the underlying technologies they are based
+on. Moreover, we define guidelines for designing conversational interfaces in
+various domains. This paper particularly focuses on classifying the elements
+and techniques used in CUI design patterns. After concluding certain challenges
+with CUI, we discuss important features and chatbot states to be considered in
+CUI design for specific domain. We envisage this study to support CUI
+researchers to design tailored chatbots applicable into certain domain and
+improve the current state of research challenges in the field of Artificial
+Intelligence and conversational agents.",
+cross-border conversion,http://arxiv.org/abs/1805.04335v1,Added mass: a complex face of tidal conversion,"This paper revisits the problem of tidal conversion at a ridge in a uniformly
+stratified fluid of limited depth using measurements of complex-valued added
+mass. When the height of a sub-marine ridge is non negligible with respect to
+the depth of the water, the tidal conversion can be enhanced in the
+supercritical regime or reduced in the subcritical regime with respect to the
+large depth situation. Tidal conversion can even be null for some specific
+cases. Here, we study experimentally the influence of finite depth on the added
+mass coefficients for three diffierent ridge shapes. We first show that at low
+forcing frequency the tidal conversion is weakly enhanced by shallow depth for
+a semi-circular ridge. In addition, added mass coefficients measured for a
+vertical ridge show strong similarities with the ones obtained for the
+semi-circular ridge. Nevertheless, the enhancement of the tidal conversion at
+low forcing frequency for the vertical ridge has not been observed, in contrast
+with its supercritical shape. Finally, we provide the experimental evidence of
+a lack of tidal conversion due to the specific shape of a ridge for certain
+depth and frequency tuning.","Journal of Fluid Mechanics 831, 101-127 (2017)"
+cross-border conversion,http://arxiv.org/abs/1806.06411v1,Measuring Semantic Coherence of a Conversation,"Conversational systems have become increasingly popular as a way for humans
+to interact with computers. To be able to provide intelligent responses,
+conversational systems must correctly model the structure and semantics of a
+conversation. We introduce the task of measuring semantic (in)coherence in a
+conversation with respect to background knowledge, which relies on the
+identification of semantic relations between concepts introduced during a
+conversation. We propose and evaluate graph-based and machine learning-based
+approaches for measuring semantic coherence using knowledge graphs, their
+vector space embeddings and word embedding models, as sources of background
+knowledge. We demonstrate how these approaches are able to uncover different
+coherence patterns in conversations on the Ubuntu Dialogue Corpus.",
+cross-border conversion,http://arxiv.org/abs/1808.05366v1,"Strong Converse for Hypothesis Testing Against Independence over a
+  Two-Hop Network","By proving a strong converse, we strengthen the weak converse result by
+Salehkalaibar, Wigger and Wang (2017) concerning hypothesis testing against
+independence over a two-hop network with communication constraints. Our proof
+follows by judiciously combining two recently proposed techniques for proving
+strong converse theorems, namely the strong converse technique via reverse
+hypercontractivity by Liu, van Handel, and Verd\'u (2017) and the strong
+converse technique by Tyagi and Watanabe (2018), in which the authors used a
+change-of-measure technique and replaced hard Markov constraints with soft
+information costs. The techniques used in our paper can also be applied to
+prove strong converse theorems for other multiterminal hypothesis testing
+against independence problems.",
+cross-border conversion,http://arxiv.org/abs/1901.11462v1,"Exploring the context of recurrent neural network based conversational
+  agents","Conversational agents have begun to rise both in the academic (in terms of
+research) and commercial (in terms of applications) world. This paper
+investigates the task of building a non-goal driven conversational agent, using
+neural network generative models and analyzes how the conversation context is
+handled. It compares a simpler Encoder-Decoder with a Hierarchical Recurrent
+Encoder-Decoder architecture, which includes an additional module to model the
+context of the conversation using previous utterances information. We found
+that the hierarchical model was able to extract relevant context information
+and include them in the generation of the output. However, it performed worse
+(35-40%) than the simple Encoder-Decoder model regarding both grammatically
+correct output and meaningful response. Despite these results, experiments
+demonstrate how conversations about similar topics appear close to each other
+in the context space due to the increased frequency of specific topic-related
+words, thus leaving promising directions for future research and how the
+context of a conversation can be exploited.",
+cross-border conversion,http://arxiv.org/abs/1902.05224v1,Conversion from RLBWT to LZ77,"Converting a compressed format of a string into another compressed format
+without an explicit decompression is one of the central research topics in
+string processing. We discuss the problem of converting the run-length
+Burrows-Wheeler Transform (RLBWT) of a string to Lempel-Ziv 77 (LZ77) phrases
+of the reversed string. The first results with Policriti and Prezza's
+conversion algorithm [Algorithmica 2018] were $O(n \log r)$ time and $O(r)$
+working space for length of the string $n$, number of runs $r$ in the RLBWT,
+and number of LZ77 phrases $z$. Recent results with Kempa's conversion
+algorithm [SODA 2019] are $O(n / \log n + r \log^{9} n + z \log^{9} n)$ time
+and $O(n / \log_{\sigma} n + r \log^{8} n)$ working space for the alphabet size
+$\sigma$ of the RLBWT. In this paper, we present a new conversion algorithm by
+improving Policriti and Prezza's conversion algorithm where dynamic data
+structures for general purpose are used. We argue that these dynamic data
+structures can be replaced and present new data structures for faster
+conversion. The time and working space of our conversion algorithm with new
+data structures are $O(n \min \{ \log \log n, \sqrt{\frac{\log r}{\log\log r}}
+\})$ and $O(r)$, respectively.",
+cross-border conversion,http://arxiv.org/abs/1904.02760v2,An End-to-End Conversational Style Matching Agent,"We present an end-to-end voice-based conversational agent that is able to
+engage in naturalistic multi-turn dialogue and align with the interlocutor's
+conversational style. The system uses a series of deep neural network
+components for speech recognition, dialogue generation, prosodic analysis and
+speech synthesis to generate language and prosodic expression with qualities
+that match those of the user. We conducted a user study (N=30) in which
+participants talked with the agent for 15 to 20 minutes, resulting in over 8
+hours of natural interaction data. Users with high consideration conversational
+styles reported the agent to be more trustworthy when it matched their
+conversational style. Whereas, users with high involvement conversational
+styles were indifferent. Finally, we provide design guidelines for multi-turn
+dialogue interactions using conversational style adaptation.","Proceedings of the 19th ACM International Conference on
+  Intelligent Virtual Agents (2019) 111-118"
+cross-border conversion,http://arxiv.org/abs/1905.06716v1,"A Method to Discover Digital Collaborative Conversations in Business
+  Collaborations","Many companies have a suite of digital tools, such as Enterprise Social
+Networks, conferencing and document sharing software, and email, to facilitate
+collaboration among employees. During, or at the end of a collaboration,
+documents are often produced. People who were not involved in the initial
+collaboration often have difficulties understanding parts of its content
+because they are lacking the overall context. We argue there is valuable
+contextual and collaborative knowledge contained in these tools (content and
+use) that can be used to understand the document. Our goal is to rebuild the
+conversations that took place over a messaging service and their links with a
+digital conferencing tool during document production. The novelty in our
+approach is to combine several conversation-threading methods to identify
+interesting links between distinct conversations. Specifically we combine
+header-field information with social, temporal and semantic proximities. Our
+findings suggest the messaging service and conferencing tool are used in a
+complementary way. The primary results confirm that combining different
+conversation threading approaches is efficient to detect and construct
+conversation threads from distinct digital conversations concerning the same
+document.","10th International Joint Conference on Knowledge Discovery,
+  Knowledge Engineering and Knowledge Management, May 2018, Seville, Spain"
+cross-border conversion,http://arxiv.org/abs/1905.08796v1,Acoustic-to-Word Models with Conversational Context Information,"Conversational context information, higher-level knowledge that spans across
+sentences, can help to recognize a long conversation. However, existing speech
+recognition models are typically built at a sentence level, and thus it may not
+capture important conversational context information. The recent progress in
+end-to-end speech recognition enables integrating context with other available
+information (e.g., acoustic, linguistic resources) and directly recognizing
+words from speech. In this work, we present a direct acoustic-to-word,
+end-to-end speech recognition model capable of utilizing the conversational
+context to better process long conversations. We evaluate our proposed approach
+on the Switchboard conversational speech corpus and show that our system
+outperforms a standard end-to-end speech recognition system.",
+cross-border conversion,http://arxiv.org/abs/1907.10235v1,"Predicting Different Types of Conversions with Multi-Task Learning in
+  Online Advertising","Conversion prediction plays an important role in online advertising since
+Cost-Per-Action (CPA) has become one of the primary campaign performance
+objectives in the industry. Unlike click prediction, conversions have different
+types in nature, and each type may be associated with different decisive
+factors. In this paper, we formulate conversion prediction as a multi-task
+learning problem, so that the prediction models for different types of
+conversions can be learned together. These models share feature
+representations, but have their specific parameters, providing the benefit of
+information-sharing across all tasks. We then propose Multi-Task Field-weighted
+Factorization Machine (MT-FwFM) to solve these tasks jointly. Our experiment
+results show that, compared with two state-of-the-art models, MT-FwFM improve
+the AUC by 0.74% and 0.84% on two conversion types, and the weighted AUC across
+all conversion types is also improved by 0.50%.",SIGKDD 2019
+cross-border conversion,http://arxiv.org/abs/1908.00059v1,"GraphFlow: Exploiting Conversation Flow with Graph Neural Networks for
+  Conversational Machine Comprehension","Conversational machine reading comprehension (MRC) has proven significantly
+more challenging compared to traditional MRC since it requires better
+utilization of conversation history. However, most existing approaches do not
+effectively capture conversation history and thus have trouble handling
+questions involving coreference or ellipsis. We propose a novel graph neural
+network (GNN) based model, namely GraphFlow, which captures conversational flow
+in the dialog. Specifically, we first propose a new approach to dynamically
+construct a question-aware context graph from passage text at each turn. We
+then present a novel flow mechanism to model the temporal dependencies in the
+sequence of context graphs. The proposed GraphFlow model shows superior
+performance compared to existing state-of-the-art methods. For instance,
+GraphFlow outperforms two recently proposed models on the CoQA benchmark
+dataset: FlowQA by 2.3% and SDNet by 0.7% on F1 score, respectively. In
+addition, visualization experiments show that our proposed model can better
+mimic the human reasoning process for conversational MRC compared to existing
+models.",
+cross-border conversion,http://arxiv.org/abs/1909.10743v1,"An Empirical Study of Content Understanding in Conversational Question
+  Answering","With a lot of work about context-free question answering systems, there is an
+emerging trend of conversational question answering models in the natural
+language processing field. Thanks to the recently collected datasets, including
+QuAC and CoQA, there has been more work on conversational question answering,
+and some models have achieved competitive performance on both datasets.
+However, to best of our knowledge, two important questions for conversational
+comprehension research have not been well studied: 1) How well can the
+benchmark dataset reflect models' content understanding? 2) Do the models
+utilize the conversation content well? To investigate the two questions, we
+design different training settings, testing settings, as well as an attack to
+verify the models' capability of content understanding on QuAC and CoQA. The
+results indicate some potential hazards of using QuAC and CoQA for
+conversational comprehension research. Our analysis also sheds some light one
+both models and datasets. Given deeper investigation of the task, it is
+believed that this work is beneficial to the future progress of conversation
+comprehension.",
+cross-border conversion,http://arxiv.org/abs/1910.04980v2,"Emotion Recognition in Conversations with Transfer Learning from
+  Generative Conversation Modeling","Recognizing emotions in conversations is a challenging task due to the
+presence of contextual dependencies governed by self- and inter-personal
+influences. Recent approaches have focused on modeling these dependencies
+primarily via supervised learning. However, purely supervised strategies demand
+large amounts of annotated data, which is lacking in most of the available
+corpora in this task. To tackle this challenge, we look at transfer learning
+approaches as a viable alternative. Given the large amount of available
+conversational data, we investigate whether generative conversational models
+can be leveraged to transfer affective knowledge for the target task of
+detecting emotions in context. We propose an approach where we first train a
+neural dialogue model and then perform parameter transfer to initiate our
+target model. Apart from the traditional pre-trained sentence encoders, we also
+incorporate parameter transfer from the recurrent components that model
+inter-sentence context across the whole conversation. Based on this idea, we
+perform several experiments across multiple datasets and find improvement in
+performance and robustness against limited training data. Our models also
+achieve better validation performances in significantly fewer epochs. Overall,
+we infer that knowledge acquired from dialogue generators can indeed help
+recognize emotions in conversations.",
+cross-border conversion,http://arxiv.org/abs/1606.01582v1,"Quantum frequency conversion and strong coupling of photonic modes using
+  four-wave mixing in integrated microresonators","Single photon-level quantum frequency conversion has recently been
+demonstrated using silicon nitride microring resonators. The resonance
+enhancement offered by such systems enables high-efficiency translation of
+quantum states of light across wide frequency ranges at sub-watt pump powers.
+Using a quantum-mechanical Hamiltonian formalism, we present a detailed
+theoretical analysis of the conversion dynamics in these systems, and show that
+they are capable of converting single- and multi-photon quantum states.
+Analytic formulas for the conversion efficiency, spectral conversion
+probability density, and pump power requirements are derived which are in good
+agreement with previous theoretical and experimental results. We show that with
+only modest improvement to the state of the art, efficiencies exceeding 95% are
+achievable using less than 100 mW of pump power. At the critical driving
+strength that yields maximum conversion efficiency, the spectral conversion
+probability density is shown to exhibit a flat-topped peak, indicating a range
+of insensitivity to the spectrum of a single photon input. Two alternate
+theoretical approaches are presented to study the conversion dynamics: a
+dressed mode approach that yields a better intuitive picture of the conversion
+process, and a study of the temporal dynamics of the participating modes in the
+resonator, which uncovers a regime of Rabi-like coherent oscillations of single
+photons between two different frequency modes. This oscillatory regime arises
+from the strong coupling of distinct frequency modes mediated by coherent
+pumps.","Phys. Rev. A 94, 023810 (2016)"
+cross-border conversion,http://arxiv.org/abs/1706.07440v2,End-to-end Conversation Modeling Track in DSTC6,"End-to-end training of neural networks is a promising approach to automatic
+construction of dialog systems using a human-to-human dialog corpus. Recently,
+Vinyals et al. tested neural conversation models using OpenSubtitles. Lowe et
+al. released the Ubuntu Dialogue Corpus for researching unstructured multi-turn
+dialogue systems. Furthermore, the approach has been extended to accomplish
+task oriented dialogs to provide information properly with natural
+conversation. For example, Ghazvininejad et al. proposed a knowledge grounded
+neural conversation model [3], where the research is aiming at combining
+conversational dialogs with task-oriented knowledge using unstructured data
+such as Twitter data for conversation and Foursquare data for external
+knowledge.However, the task is still limited to a restaurant information
+service, and has not yet been tested with a wide variety of dialog tasks. In
+addition, it is still unclear how to create intelligent dialog systems that can
+respond like a human agent.
+  In consideration of these problems, we proposed a challenge track to the 6th
+dialog system technology challenges (DSTC6) using human-to-human dialog data to
+mimic human dialog behaviors. The focus of the challenge track is to train
+end-to-end conversation models from human-to-human conversation and accomplish
+end-to-end dialog tasks in various situations assuming a customer service, in
+which a system plays a role of human agent and generates natural and
+informative sentences in response to user's questions or comments given dialog
+context.",
+cross-border conversion,http://arxiv.org/abs/1708.03044v1,"""Is there anything else I can help you with?"": Challenges in Deploying
+  an On-Demand Crowd-Powered Conversational Agent","Intelligent conversational assistants, such as Apple's Siri, Microsoft's
+Cortana, and Amazon's Echo, have quickly become a part of our digital life.
+However, these assistants have major limitations, which prevents users from
+conversing with them as they would with human dialog partners. This limits our
+ability to observe how users really want to interact with the underlying
+system. To address this problem, we developed a crowd-powered conversational
+assistant, Chorus, and deployed it to see how users and workers would interact
+together when mediated by the system. Chorus sophisticatedly converses with end
+users over time by recruiting workers on demand, which in turn decide what
+might be the best response for each user sentence. Up to the first month of our
+deployment, 59 users have held conversations with Chorus during 320
+conversational sessions. In this paper, we present an account of Chorus'
+deployment, with a focus on four challenges: (i) identifying when conversations
+are over, (ii) malicious users and workers, (iii) on-demand recruiting, and
+(iv) settings in which consensus is not enough. Our observations could assist
+the deployment of crowd-powered conversation systems and crowd-powered systems
+in general.",
+cross-border division,http://arxiv.org/abs/1101.2798v1,On Logical Extension of Algebraic Division,"Basic arithmetic is the cornerstone of mathematics and computer sciences. In
+arithmetic, 'division by zero' is an undefined operation and any attempt at
+extending logic for algebraic division to incorporate division by zero has
+resulted in paradoxes and fallacies. However, there is no proven theorem or
+mathematical logic that suggests that, defining logic for division by zero
+would result in break-down of theory. Basing on this motivation, in this paper,
+we attempt at logically defining a solution for 'division by zero' problem.",
+cross-border division,http://arxiv.org/abs/1006.3961v1,An electrostatic model for biological cell division,"Probably the most fundamental processes for biological systems is their
+ability to create themselves through the use of cell division and cell
+differentiation. In this work a simple physical model is proposed for
+biological cell division. The model consists of a positive ionic gradient
+across the cell membrane, and concentration of charge at the nodes of the
+spindle and on the chromosomes. A simple calculation, based on Coulomb's Law,
+shows that under such circumstances a chromosome will tend to break up to its
+constituent chromatids and that the chromatids will be separated by a distance
+that is an order of thirty percent of the distance between the spindle nodes.
+Further repulsion between the nodes will tend to stretch the cell and
+eventually break the cell membrane between the separated chromatids, leading to
+cell division. The importance of this work is in continuing the understanding
+of the electromagnetic basis of cell division and providing it with an
+analytical model. A central implication of this and other studies is to give
+theoretical support to the notion that cell division can be manipulated by
+electromagnetic means. Requirements on the ingredients of more sophisticated
+models for biological cell division will also discussed.
+  Keywords: Charge Separation, Cell Division, Mitosis",
+cross-border division,http://arxiv.org/abs/1405.0878v1,Market Coupling as the Universal Algorithm to Assess Zonal Divisions,"Adopting a zonal structure of electricity market requires specification of
+zones' borders. In this paper we use social welfare as the measure to assess
+quality of various zonal divisions. The social welfare is calculated by Market
+Coupling algorithm. The analyzed divisions are found by the usage of extended
+Locational Marginal Prices (LMP) methodology presented in paper [1], which
+takes into account variable weather conditions. The offered method of
+assessment of a proposed division of market into zones is however not limited
+to LMP approach but can evaluate the social welfare of divisions obtained by
+any methodology.",
+cross-border division,http://arxiv.org/abs/1702.05825v1,Sustainable Fair Division,"In this paper, I summarize our work on online fair division. In particular, I
+present two models for online fair division: (1) one existing model for fair
+division in food banks and (2) one new model for fair division of deceased
+organs to patients. I further discuss simple mechanisms for these models that
+allocate the resources as they arrive to agents. In practice, agents are often
+risk-averse having imperfect information. Within this assumption, I report
+several interesting axiomatic and complexity results for these mechanisms and
+conclude with future work.",
+cross-border division,http://arxiv.org/abs/1707.02871v1,How to cut a cake with a gram matrix,"In this article we study the problem of fair division. In particular we study
+a notion introduced by J. Barbanel that generalizes super envy-free fair
+division. We give a new proof of his result. Our approach allows us to give an
+explicit bound for this kind of fair division. Furthermore, we also give a
+theoretical answer to an open problem posed by Barbanel in 1996. Roughly
+speaking, this question is: how can we decide if there exists a fair division
+satisfying some inequalities constraints? Furthermore, when all the measures
+are given with piecewise constant density functions then we show how to
+construct effectively such a fair division.",
+cross-border division,http://arxiv.org/abs/1804.03833v2,Don't cry to be the first!Symmetric fair division exist,"In this article we study a cake cutting problem. More precisely, we study
+symmetric fair division algorithms, that is to say we study algorithms where
+the order of the players do not influence the value obtained by each player. In
+the first part of the article, we give a symmetric and envy-free fair division
+algorithm. More precisely, we show how to get a symmetric and envy-free fair
+division algorithm from an envy-free division algorithm. In the second part, we
+give a proportional and symmetric fair division algorithm with a complexity in
+O(n 3) in the Robertson-Webb model of complexity. This algorithm is based on
+Kuhn's algorithm. Furthermore, our study has led us to introduce a new notion:
+aristotelian fair division. This notion is an interpretation of Aristotle's
+principle: give equal shares to equal people. We conclude this article with a
+discussion and some questions about the Robertson-Webb model of computation.",
+company law package,http://arxiv.org/abs/physics/0506066v1,Pareto index induced from the scale of companies,"Employing profits data of Japanese companies in 2002 and 2003, we confirm
+that Pareto's law and the Pareto index are derived from the law of detailed
+balance and Gibrat's law. The last two laws are observed beyond the region
+where Pareto's law holds. By classifying companies into job categories, we find
+that companies in a small scale job category have more possibilities of growing
+than those in a large scale job category. This kinematically explains that the
+Pareto index for the companies in the small scale job class is larger than that
+for the companies in the large scale job class.",
+company law package,http://arxiv.org/abs/physics/9708013v1,Self-pinching of a relativistic electron bunch in a drift tube,"Electron bunches with charge densities $\rho$ of the order of $10^2$ to
+$10^3$ [nC/cm$^3$], energies between $20.$ and $100.$ [MeV], peak current
+$>100$ [A], bunch lengths between 0.3 and 1.8 [cm], and bunch charge of 2.0 to
+$20.$ [nC] are relevant to the design of Free Electron Lasers and future linear
+colliders. In this paper we present the results of numerical simulations
+performed with a particle in a cell (pic) code of an electron bunch in a drift
+tube. The electron bunch has cylindrical symmetry with the $z$-axis oriented in
+the direction of motion. The charge density distribution is constant in the
+radial and Gaussian in the longitudinal direction, respectively. The electron
+bunch experiences both a radial pinch in the middle of the pulse, corresponding
+to the peak electron density, and a significant growth of the correlated
+emittance. This behavior is explained, and an approximate scaling law is
+identified. Comparisons of the results from the pic and PARMELA codes are
+presented.",
+company law package,http://arxiv.org/abs/1312.2069v1,"Applying the Apriori algorithm for investigating the relationships
+  between demographic characteristics of Iranian top 100 enterprises and the
+  strcture of their commercial website","This study was conducted with the main aim to investigate the relationships
+between demographic characteristics of companies and the facilities required
+for their commercial websites. The research samples are the top 100 Iranian
+companies as ranked by the Iranian Industrial Management Institute; the method
+applied is datamining, using Association Rules throught the Apriori algorithms.
+To collect the data, an aithor-modified check list has been utilized, coverig
+the three areas of faclities within commercial websites, i.e. fundamental,
+information-providing, and service-delivering facilities. having extracted the
+association rules between the mentioned two sets of variables, 68 rules with a
+confidence rate of 90% and above were obtained, and based on their significance
+were classified into two groups of must-have and should-have requirements; a
+recommended package of facilities is hitherto offered to other companies which
+intend to enter e-commerce through their commerical websites with regards to
+each company's unique demographic characteristics.","International Journal of Data Mining & Knowledge Management
+  Process (IJDKP) Vol.3, No.6, November 2013"
+company law package,http://arxiv.org/abs/1811.08660v1,"The Unwanted Sharing Economy: An Analysis of Cookie Syncing and User
+  Transparency under GDPR","The European General Data Protection Regulation (GDPR), which went into
+effect in May 2018, leads to important changes in this area: companies are now
+required to ask for users' consent before collecting and sharing personal data
+and by law users now have the right to gain access to the personal information
+collected about them.
+  In this paper, we study and evaluate the effect of the GDPR on the online
+advertising ecosystem. In a first step, we measure the impact of the
+legislation on the connections (regarding cookie syncing) between third-parties
+and show that the general structure how the entities are arranged is not
+affected by the GDPR. However, we find that the new regulation has a
+statistically significant impact on the number of connections, which shrinks by
+around 40%. Furthermore, we analyze the right to data portability by evaluating
+the subject access right process of popular companies in this ecosystem and
+observe differences between the processes implemented by the companies and how
+they interpret the new legislation. We exercised our right of access under GDPR
+with 36 companies that had tracked us online. Although 32 companies (89%) we
+inquired replied within the period defined by law, only 21 (58%) finished the
+process by the deadline set in the GDPR. Our work has implications regarding
+the implementation of privacy law as well as what online tracking companies
+should do to be more compliant with the new regulation.",
+company law package,http://arxiv.org/abs/physics/0702248v1,"The uniqueness of company size distribution function from tent-shaped
+  growth rate distribution","We report the proof that the extension of Gibrat's law in the middle scale
+region is unique and the probability distribution function (pdf) is also
+uniquely derived from the extended Gibrat's law and the law of detailed
+balance. In the proof, two approximations are employed. The pdf of growth rate
+is described as tent-shaped exponential functions and the value of the origin
+of the growth rate distribution is constant. These approximations are confirmed
+in profits data of Japanese companies 2003 and 2004. The resultant profits pdf
+fits with the empirical data with high accuracy. This guarantees the validity
+of the approximations.",
+company law package,http://arxiv.org/abs/physics/0503177v1,Shareholding Networks in Japan,"The Japanese shareholding network existing at the end of March 2002 is
+studied empirically. The network is constructed from 2,303 listed companies and
+53 non-listed financial institutions. We consider this network as a directed
+graph by drawing edges from shareholders to stock corporations. The lengths of
+the shareholder lists vary with the companies, and the most comprehensive lists
+contain the top 30 shareholders. Consequently, the distribution of incoming
+edges has an upper bound, while that of outgoing edges has no bound. The
+distribution of outgoing degrees is well explained by the power law function
+with an exponential tail. The exponent in the power law range is gamma=1.7. To
+understand these features from the viewpoint of a company's growth, we consider
+the correlations between the outgoing degree and the company's age, profit, and
+total assets.",
+company law package,http://arxiv.org/abs/1907.06538v1,"Patterns of Effort Contribution and Demand and User Classification based
+  on Participation Patterns in NPM Ecosystem","Background: Open source requires participation of volunteer and commercial
+developers (users) in order to deliver functional high-quality components.
+Developers both contribute effort in the form of patches and demand effort from
+the component maintainers to resolve issues reported against it. Aim: Identify
+and characterize patterns of effort contribution and demand throughout the open
+source supply chain and investigate if and how these patterns vary with
+developer activity; identify different groups of developers; and predict
+developers' company affiliation based on their participation patterns. Method:
+1,376,946 issues and pull-requests created for 4433 NPM packages with over
+10,000 monthly downloads and full (public) commit activity data of the 272,142
+issue creators is obtained and analyzed and dependencies on NPM packages are
+identified. Fuzzy c-means clustering algorithm is used to find the groups among
+the users based on their effort contribution and demand patterns, and Random
+Forest is used as the predictive modeling technique to identify their company
+affiliations. Result: Users contribute and demand effort primarily from
+packages that they depend on directly with only a tiny fraction of
+contributions and demand going to transitive dependencies. A significant
+portion of demand goes into packages outside the users' respective supply
+chains (constructed based on publicly visible version control data). Three and
+two different groups of users are observed based on the effort demand and
+effort contribution patterns respectively. The Random Forest model used for
+identifying the company affiliation of the users gives a AUC-ROC value of 0.68.
+Conclusion: Our results give new insights into effort demand and supply at
+different parts of the supply chain of the NPM ecosystem and its users and
+suggests the need to increase visibility further upstream.",
+company law package,http://arxiv.org/abs/physics/0512124v2,Re-examination of the size distribution of firms,"In this paper we address the question of the size distribution of firms. To
+this aim, we use the Bloomberg database comprising multinational firms within
+the years 1995-2003, and analyze the data of the sales and the total assets of
+the separate financial statement of the Japanese and the US companies, and make
+a comparison of the size distributions between the Japanese companies and the
+US companies. We find that (i) the size distribution of the US firms is
+approximately log-normal, in agreement with Gibrat's observation (Gibrat 1931),
+and in contrast (ii) the size distribution of the Japanese firms is clearly not
+log-normal, and the upper tail of the size distribution follows the Pareto law.
+It agree with the predictions of the Simon model (Simon 1955). Key words: the
+size distribution of firms, the Gibrat's law, and the Pareto law",Evolutionary and Institutional Economics Review 2-2 (2006)
+company law package,http://arxiv.org/abs/physics/0508178v1,Derivation of the distribution from extended Gibrat's law,"Employing profits data of Japanese companies in 2002 and 2003, we identify
+the non-Gibrat's law which holds in the middle profits region. From the law of
+detailed balance in all regions, Gibrat's law in the high region and the
+non-Gibrat's law in the middle region, we kinematically derive the profits
+distribution function in the high and middle range uniformly. The distribution
+function accurately fits with empirical data without any fitting parameter.",
+company law package,http://arxiv.org/abs/physics/0503017v1,Financial Networks in the Korean Stock Exchange Market,"We investigate the financial network in the Korean stock exchange (KSE)
+market, using both numerical simulations and scaling arguments. We estimate the
+cross-correlation on the stock price exchanges of all companies listed on the
+the Korean stock exchange market, where all companies are fully connected via
+weighted links, by introducing a weighted random graph. The degree distribution
+and the edge density are discussed numerically from the market graph, and the
+statistical analysis for the degree distribution of vertices is particularly
+found to approximately follow the power law.",
+company law package,http://arxiv.org/abs/1309.5351v1,Human Resource Management System,"The paper titled HUMAN RESOURCE MANAGEMENT SYSTEM is basically concerned with
+managing the Administrator of HUMAN RESOURCE Department in a company. A Human
+Resource Management System, refers to the systems and processes at the
+intersection between human resource management and information technology. It
+merges HRM as a discipline and in particular its basic HR activities and
+processes with the information technology field, whereas the programming of
+data processing systems evolved into standardized routines and packages of
+enterprise resource planning software. The main objective of this paper is to
+reduce the effort of Administrator to keep the daily events such as attendance,
+projects, works, appointments, etc. This paper deals with the process of
+identifying the employees, recording their attendance hourly and calculating
+their effective payable hours or days. This paper should maintain the records
+of each and every employee and their time spend in to company, which can be
+used for performance appraisal. Based on that transfer, removal, promotion can
+be done.",
+company law package,http://arxiv.org/abs/1909.02674v1,"Willing Buyer, Willing Seller: Personal Data Trade as a Service","There is an increased sensitivity by people about how companies collect
+information about them, and how this information is packaged, used and sold.
+This perceived lack of control is highlighted by the helplessness of users of
+various platforms in managing or halting what data is collected from/about
+them. In a future where users have wrested control of their data and have the
+autonomy to decide what information is collected, how it is used and most
+importantly, how much it is worth, a new market emerges. This design fiction
+considers possible steps prescient companies would take to meet these demands,
+such as providing third-party subscription platforms offering personal data
+trade as a service. These services would provide a means for transparent
+transactions that preserve an owner's control over their data; allowing them to
+individually make decisions about what data they avail for sale, and the amount
+of compensation they would accept in trade.",
+company law package,http://arxiv.org/abs/1808.04617v2,"Joint Ground and Aerial Package Delivery Services: A Stochastic
+  Optimization Approach","Unmanned aerial vehicles (UAVs), also known as drones, have emerged as a
+promising mode of fast, energy-efficient, and cost-effective package delivery.
+A considerable number of works have studied different aspects of drone package
+delivery service by a supplier, one of which is delivery planning. However,
+existing works addressing the planning issues consider a simple case of perfect
+delivery without service interruption, e.g., due to accident which is common
+and realistic. Therefore, this paper introduces the joint ground and aerial
+delivery service optimization and planning (GADOP) framework. The framework
+explicitly incorporates uncertainty of drone package delivery, i.e., takeoff
+and breakdown conditions. The GADOP framework aims to minimize the total
+delivery cost given practical constraints, e.g., traveling distance limit.
+Specifically, we formulate the GADOP framework as a three-stage stochastic
+integer programming model. To deal with the high complexity issue of the
+problem, a decomposition method is adopted. Then, the performance of the GADOP
+framework is evaluated by using two data sets including Solomon benchmark suite
+and the real data from one of the Singapore logistics companies. The
+performance evaluation clearly shows that the GADOP framework can achieve
+significantly lower total payment than that of the baseline methods which do
+not take uncertainty into account.",Transactions on Intelligent Transportation Systems 2018
+company law package,http://arxiv.org/abs/0807.0014v1,"Empirical Tests of Zipf's law Mechanism In Open Source Linux
+  Distribution","The evolution of open source software projects in Linux distributions offers
+a remarkable example of a growing complex self-organizing adaptive system,
+exhibiting Zipf's law over four full decades. We present three tests of the
+usually assumed ingredients of stochastic growth models that have been
+previously conjectured to be at the origin of Zipf's law: (i) the growth
+observed between successive releases of the number of in-directed links of
+packages obeys Gibrat's law of proportional growth; (ii) the average growth
+increment of the number of in-directed links of packages over a time interval
+$\Delta t$ is proportional to $\Delta t$, while its standard deviation is
+proportional to $\sqrt{\Delta t}$; (iii) the distribution of the number of
+in-directed links of new packages appearing in evolving versions of Debian
+Linux distributions has a tail thinner than Zipf's law, with an exponent which
+converges to the Zipf's law value 1 as the time $\Delta t$ between releases
+increases.","Physical Review Letters 101, 218701 (2008)"
+company law package,http://arxiv.org/abs/physics/0502005v1,Heterogeneous Economic Networks,"The Japanese shareholding network at the end of March 2002 is studied. To
+understand the characteristics of this network intuitively, we visualize it as
+a directed graph and an adjacency matrix. Especially detailed features of
+networks concerned with the automobile industry sector are discussed by using
+the visualized networks. The shareholding network is also considered as an
+undirected graph, because many quantities characterizing networks are defined
+for undirected cases. For this undirected shareholding network, we show that a
+degree distribution is well fitted by a power law function with an exponential
+tail. The exponent in the power law range is gamma=1.8. We also show that the
+spectrum of this network follows asymptotically the power law distribution with
+the exponent delta=2.6. By comparison with gamma and delta, we find a scaling
+relation delta=2gamma-1. The reason why this relation holds is attributed to
+the local tree-like structure of networks. To clarify this structure, the
+correlation between degrees and clustering coefficients is considered. We show
+that this correlation is negative and fitted by the power law function with the
+exponent alpha=1.1. This guarantees the local tree-like structure of the
+network and suggests the existence of a hierarchical structure. We also show
+that the degree correlation is negative and follows the power law function with
+the exponent nu=0.8. This indicates a degree-nonassortative network, in which
+hubs are not directly connected with each other. To understand these features
+of the network from the viewpoint of a company's growth, we consider the
+correlation between the degree and the company's total assets and age. It is
+clarified that the degree and the company's total assets correlate strongly,
+but the degree and the company's age have no correlation.",
+company law package,http://arxiv.org/abs/0805.0922v1,High Density Through Silicon Via (TSV),"The Through Silicon Via (TSV) process developed by Silex provides down to 30
+micrometers pitch for through wafer connections in up to 600 micrometers thick
+substrates. Integrated with MEMS designs it enables significantly reduced die
+size and true ""Wafer Level Packaging"" - features that are particularly
+important in consumer market applications. The TSV technology also enables
+integration of advanced interconnect functions in optical MEMS, sensors and
+microfluidic devices. In addition the Via technology opens for very interesting
+possibilities considering integration with CMOS processing. With several
+companies using the process already today, qualified volume manufacturing in
+place and a line-up of potential users, the process is becoming a standard in
+the MEMS industry. We provide a introduction to the via formation process and
+also present some on the novel solutions made available by the technology.","Dans Symposium on Design, Test, Integration and Packaging of
+  MEMS/MOEMS - DTIP 2008, Nice : France (2008)"
+company law package,http://arxiv.org/abs/1502.03663v1,MPPC versus MRS APD in two-phase Cryogenic Avalanche Detectors,"Two-phase Cryogenic Avalanche Detectors (CRADs) with combined THGEM/GAPD
+multiplier have become an emerging potential technique for dark matter search
+and coherent neutrino-nucleus scattering experiments. In such a multiplier the
+THGEM hole avalanches are optically recorded in the Near Infrared (NIR) using a
+matrix of Geiger-mode APDs (GAPDs). To select the proper sensor, the
+performances of six GAPD types manufactured by different companies, namely by
+Hamamatsu (MPPCs), CPTA (MRS APDs) and SensL (SiPMs), have been comparatively
+studied at cryogenic temperatures when operated in two-phase CRADs in Ar at 87
+K. While the GAPDs with ceramic packages failed to operate properly at
+cryogenic temperatures, those with plastic packages, namely MPPC S10931-100P
+and MRS APD 149-35, showed satisfactory performances at 87 K. In addition, MPPC
+S10931-100P turned out to be superior in terms of the higher detection
+efficiency, lower nose rate, lower pixel quenching resistor and better
+characteristics reproducibility.",2015 JINST 10 P04013
+company law package,http://arxiv.org/abs/1806.03688v1,"LexNLP: Natural language processing and information extraction for legal
+  and regulatory texts","LexNLP is an open source Python package focused on natural language
+processing and machine learning for legal and regulatory text. The package
+includes functionality to (i) segment documents, (ii) identify key text such as
+titles and section headings, (iii) extract over eighteen types of structured
+information like distances and dates, (iv) extract named entities such as
+companies and geopolitical entities, (v) transform text into features for model
+training, and (vi) build unsupervised and supervised models such as word
+embedding or tagging models. LexNLP includes pre-trained models based on
+thousands of unit tests drawn from real documents available from the SEC EDGAR
+database as well as various judicial and regulatory proceedings. LexNLP is
+designed for use in both academic research and industrial applications, and is
+distributed at https://github.com/LexPredict/lexpredict-lexnlp.",
+company law package,http://arxiv.org/abs/physics/0612104v1,"New version of PLNoise: a package for exact numerical simulation of
+  power-law noises","In a recent paper I have introduced a package for the exact simulation of
+power-law noises and other colored noises (E. Milotti, Comput. Phys. Commun.
+{\bf 175} (2006) 212): in particular the algorithm generates $1/f^\alpha$
+noises with $0 < \alpha \leq 2$. Here I extend the algorithm to generate
+$1/f^\alpha$ noises with $2 < \alpha \leq 4$ (black noises). The method is
+exact in the sense that it produces a sampled process with a theoretically
+guaranteed range-limited power-law spectrum for any arbitrary sequence of
+sampling intervals, i.e., the sampling times may be unevenly spaced.",
+company law package,http://arxiv.org/abs/physics/0607217v1,"The uniqueness of the profits distribution function in the middle scale
+  region","We report the proof that the expression of extended Gibrat's law is unique
+and the probability distribution function (pdf) is also uniquely derived from
+the law of detailed balance and the extended Gibrat's law. In the proof, two
+approximations are employed that the pdf of growth rate is described as
+tent-shaped exponential functions and that the value of the origin of growth
+rate is constant. These approximations are confirmed in profits data of
+Japanese companies 2003 and 2004. The resultant profits pdf fits with the
+empirical data with high accuracy. This guarantees the validity of the
+approximations.",
+company law package,http://arxiv.org/abs/physics/0504045v1,Change of ownership networks in Japan,"As complex networks in economics, we consider Japanese shareholding networks
+as they existed in 1985, 1990, 1995, 2000, 2002, and 2003. In this study, we
+use as data lists of shareholders for companies listed on the stock market or
+on the over-the-counter market. The lengths of the shareholder lists vary with
+the companies, and we use lists for the top 20 shareholders. We represent these
+shareholding networks as a directed graph by drawing arrows from shareholders
+to stock corporations. Consequently, the distribution of incoming edges has an
+upper bound, while that of outgoing edges has no bound. This representation
+shows that for all years the distributions of outgoing degrees can be well
+explained by the power law function with an exponential tail. The exponent
+depends on the year and the country, while the power law shape is maintained
+universally. We show that the exponent strongly correlates with the long-term
+shareholding rate and the cross-shareholding rate.",
+company law package,http://arxiv.org/abs/1811.01077v2,Dynamic Pricing under a Static Calendar,"This work is motivated by our collaboration with a large Consumer Packaged
+Goods (CPG) company. We have found that while they appreciate the advantages of
+dynamic pricing, they deem it operationally much easier to plan out a static
+price calendar in advance.
+  In this paper, we investigate the efficacy of static control policies for
+dynamic revenue management problems. In these problems, a firm has limited
+inventory to sell over a finite time horizon where demand is known but
+stochastic. We consider both pricing and assortment controls, and derive simple
+static policies in the form of a price calendar or a planned sequence of
+assortments, respectively. We show that our policies are within 1-1/e
+(approximately 0.63) of the optimum under stationary (IID) demand, and 1/2 of
+optimum under non-stationary demand, with both guarantees approaching 1 if the
+starting inventory is large.
+  A main contribution of this work is developing a system of tools for
+establishing best-possible performance guarantees relative to linear
+programming relaxations: in the stationary setting, structural properties about
+static policies which provide a complete characterization of tight bounds; and
+in the non-stationary setting, an adaptation of the prophet inequalities from
+optimal stopping theory to pricing and assortment problems.
+  Finally, we demonstrate on data from the CPG company that our simple price
+calendars are effective.",
+company law package,http://arxiv.org/abs/1305.0215v3,Powerlaw: a Python package for analysis of heavy-tailed distributions,"Power laws are theoretically interesting probability distributions that are
+also frequently used to describe empirical data. In recent years effective
+statistical methods for fitting power laws have been developed, but appropriate
+use of these techniques requires significant programming and statistical
+insight. In order to greatly decrease the barriers to using good statistical
+methods for fitting power law distributions, we developed the powerlaw Python
+package. This software package provides easy commands for basic fitting and
+statistical analysis of distributions. Notably, it also seeks to support a
+variety of user needs by being exhaustive in the options available to the user.
+The source code is publicly available and easily extensible.",PLoS ONE 9(1): e85777
+company law package,http://arxiv.org/abs/1006.4555v1,Law-Aware Access Control and its Information Model,"Cross-border access to a variety of data such as market information,
+strategic information, or customer-related information defines the daily
+business of many global companies, including financial institutions. These
+companies are obliged by law to keep a data processing legal for all offered
+services. They need to fulfill different security objectives specified by the
+legislation. Therefore, they control access to prevent unauthorized users from
+using data. Those security objectives, for example confidentiality or secrecy,
+are often defined in the eXtensible Access Control Markup Language that
+promotes interoperability between different systems. In this paper, we show the
+necessity of incorporating the requirements of legislation into access control.
+Based on the work flow in a banking scenario we describe a variety of available
+contextual information and their interrelations. Different from other access
+control systems our main focus is on law-compliant cross-border data access. By
+including legislation directly into access decisions, this lawfulness can be
+ensured. We also describe our information model to demonstrate how these
+policies can be implemented into an existing network and how the components and
+contextual information interrelate. Finally, we outline an event flow for a
+request made from a remote user exemplifying how such a system decides about
+access.","Journal of Computing, Vol. 2, No. 6, June 2010, NY, USA, ISSN
+  2151-9617"
+company law package,http://arxiv.org/abs/1806.06718v1,"On the decentralized navigation of multiple packages on transportation
+  networks","We investigate by numerical simulation and finite-size analysis the impact of
+long-range shortcuts on a spatially embedded transportation network. Our
+networks are built from two-dimensional ($d=2$) square lattices to be improved
+by the addition of long-range shortcuts added with probability $P(r_{ij})\sim
+r_{ij}^{-\alpha}$ [J. M. Kleinberg, Nature 406, 845 (2000)]. Considering those
+improved networks, we performed numerical simulation of multiple discrete
+package navigation and found a limit for the amount of packages flowing through
+the network. Such limit is characterized by a critical probability of creating
+packages $p_{c}$, where above this value a transition to a congested state
+occurs. Moreover, $p_{c}$ is found to follow a power-law, $p_{c}\sim
+L^{-\gamma}$, where $L$ is the network size. Our results indicate the presence
+of an optimal value of $\alpha_{\rm min}\approx1.7$, where the parameter
+$\gamma$ reaches its minimum value and the networks are more resilient to
+congestion for larger system sizes.","Phys. Rev. E 98, 032306 (2018)"
+company law package,http://arxiv.org/abs/1309.2086v1,"High-level robot programming based on CAD: dealing with unpredictable
+  environments","Purpose - The purpose of this paper is to present a CAD-based human-robot
+interface that allows non-expert users to teach a robot in a manner similar to
+that used by human beings to teach each other.
+  Design/methodology/approach - Intuitive robot programming is achieved by
+using CAD drawings to generate robot programs off-line. Sensory feedback allows
+minimization of the effects of uncertainty, providing information to adjust the
+robot paths during robot operation.
+  Findings - It was found that it is possible to generate a robot program from
+a common CAD drawing and run it without any major concerns about calibration or
+CAD model accuracy.
+  Research limitations/implications - A limitation of the proposed system has
+to do with the fact that it was designed to be used for particular
+technological applications.
+  Practical implications - Since most manufacturing companies have CAD packages
+in their facilities today, CAD-based robot programming may be a good option to
+program robots without the need for skilled robot programmers.
+  Originality/value - The paper proposes a new CAD-based robot programming
+system. Robot programs are directly generated from a CAD drawing running on a
+commonly available 3D CAD package (Autodesk Inventor) and not from a
+commercial, computer aided robotics (CAR) software, making it a simple CAD
+integrated solution. This is a low-cost and low-setup time system where no
+advanced robot programming skills are required to operate it. In summary, robot
+programs are generated with a high-level of abstraction from the robot
+language.","Industrial Robot: An International Journal, Vol. 39 Iss: 3, 2012,
+  pp.294 - 303"
+company law package,http://arxiv.org/abs/1606.00888v1,The Power of Fair Information Practices - A Control Agency Approach,"Most companies' new business practices are based on customer data. These
+practices have raised privacy concerns because of the associated risks. Privacy
+laws require companies to gain customer consent before using their information,
+which stands as the biggest roadblock to monetise this asset. Privacy
+literature suggests that reducing privacy concerns and building trust may
+increase individuals' intention to authorise the use of personal information.
+Fair information practices (FIPs) are potential means to achieve this goal.
+However, there is lack of empirical evidence on the mechanisms through which
+the FIPs affect privacy concerns and trust. This research argues that FIPs load
+individuals with control, which has been found to influence privacy concerns
+and trust level. We will use an experimental design methodology to conduct the
+study. The results are expected to have both theoretical and managerial
+implications.",
+company law package,http://arxiv.org/abs/1811.12621v1,A Core Ontology for Privacy Requirements Engineering,"Nowadays, most companies need to collect, store, and manage personal
+information in order to deliver their services. Accordingly, privacy has
+emerged as a key concern for these companies since they need to comply with
+privacy laws and regulations. To deal with them properly, such privacy concerns
+should be considered since the early phases of system design. Ontologies have
+proven to be a key factor for elaborating high-quality requirements models.
+However, most existing work deals with privacy as a special case of security
+requirements, thereby missing essential traits of this family of requirements.
+In this paper, we introduce COPri, a Core Ontology for Privacy requirements
+engineering that adopts and extends our previous work on privacy requirements
+engineering ontology that has been mined through a systematic literature
+review. Additionally, we implement, validate and then evaluate our ontology.",
+company law package,http://arxiv.org/abs/1910.01303v2,"From Senseless Swarms to Smart Mobs: Tuning Networks for Prosocial
+  Behaviour","Social media have been seen to accelerate the spread of negative content such
+as disinformation and hate speech, often unleashing reckless herd mentality
+within networks, further aggravated by malicious entities using bots for
+amplification. So far, the response to this emerging global crisis has centred
+around social media platform companies making reactive moves that appear to
+have greater symbolic value than practical utility. These include taking down
+patently objectionable content or manually deactivating the accounts of bad
+actors, while leaving vast troves of negative content to circulate and
+perpetuate within social networks. Governments worldwide have thus sought to
+intervene using regulatory tools, with countries such as France, Germany and
+Singapore introducing laws to compel technology companies to take down or
+correct erroneous and harmful content. However, the relentless pace of
+technological progress enfeebles regulatory measures that seem fated for
+obsolescence.",
+company law package,http://arxiv.org/abs/physics/0510058v3,"Scaling theory of temporal correlations and size dependent fluctuations
+  in the traded value of stocks","Records of the traded value f_i(t) of stocks display fluctuation scaling, a
+proportionality between the standard deviation sigma(i) and the average <f(i)>:
+sigma(i) ~ f(i)^alpha, with a strong time scale dependence alpha(dt). The
+non-trivial (i.e., neither 0.5 nor 1) value of alpha may have different origins
+and provides information about the microscopic dynamics. We present a set of
+recently discovered stylized facts, and then show their connection to such
+behavior. The functional form alpha(dt) originates from two aspects of the
+dynamics: Stocks of larger companies both tend to be traded in larger packages,
+and also display stronger correlations of traded value.","Phys. Rev. E 73, 046109 (2006)"
+company law package,http://arxiv.org/abs/1312.5481v1,"Students' Perceptions and Attitude towards the effectiveness of Prezi
+  Uses in learning Islamic Subject","Prezi is a Hungarian software company, producing a cloud-based presentation
+software and storytelling tool for presenting ideas on a virtual canvas
+(Prezi.com). Prezi is one of the teaching materials that help students in
+learning process. This study aims to explore the effectiveness of using Prezi
+in Islamic education subject among secondary schools under the topic of
+marriage in Islam: polygamy. Specifically its aims to identify students
+interest and second examine their attitude towards the uses of Prezi in
+learning Islamic educations. A total of 22 students participated in the survey,
+employing a 22-item questionnaire. The data was analyzed quantitatively using
+Statistical Package for the Social Sciences (SPSS). Result from this study
+revealed that student shows their interest in learning Islamic Educations when
+teachers uses Prezi. In additions students also show positive attitude towards
+uses of Prezi in Classroom. As conclusions, the uses of Prezi presentation is
+easy and its technique for developing a more creative and innovative approach
+in teaching strategies among Islamic educators.",International Journal of Computer Science (IJASCSE)2013
+company law package,http://arxiv.org/abs/1811.01688v1,"Collaboration and integration through information technologies in supply
+  chains","Supply chain management encompasses various processes including various
+conventional logistics activities, and various other processes These processes
+are supported -- to a certain limit -- by coordination and integration
+mechanisms which are long-term strategies that give competitive advantage
+through overall supply chain efficiency. Information Technology, by the way of
+collecting, sharing and gathering data, exchanging information, optimising
+process through package software, is becoming one of the key developments and
+success of these collaboration strategies. This paper proposes a study to
+identify the methods used for collaborative works in the supply chain and
+focuses on some of its areas, as between a company and its suppliers (i.e.,
+inventory sharing) and its customers (i.e., customer demand, forecasting), and
+also the integration of product information in the value chain.","IJTM, 2004, 28 (2), pp.259-273"
+company law package,http://arxiv.org/abs/1901.01810v1,An ERP Implementation Method : Studying a Pharmaceutical Company,"Analysing the development process for an ERP solution, in our case SAP, is
+one of the most critical processes in implementing standard software packages.
+Modelling of the proposed system can facilitate the development of enterprise
+systems not from scratch but through use of predefined parts who represents the
+best knowledge captured from numerous case studies. This aim at abstracting the
+specification of the required information system as well as modelling the
+process towards this goal. Modelling plays a central role in the organisation
+of the information systems development process and the information systems
+community has developed a large number of conceptual models, systems of
+concepts, for representing conceptual schemata. In the area of ERP systems,
+because of the characteristics that distinguishes them, conceptual modelling
+can help in all aspects of the development process, from goal elicitation to
+reuse of the captured knowledge, through the use of the appropriate modelling
+schemata. SAP offers a standardised software solution, thus making easier the
+alignment of SAP requirements to enterprise requirements in a goal form, and
+the correspondent business processes.",
+company law package,http://arxiv.org/abs/0808.0668v1,"Dynamics of non-harmonic internal gravity wave packets in stratified
+  media","In the paper taking the assumption of the slowness of the change of the
+parameters of the vertically stratified medium in the horizontal direction and
+in time, the evolution of the non-harmonic wave packages of the internal
+gravity waves has been analyzed. The concrete form of the wave packages can be
+expressed through some model functions and is defined by the local behavior of
+the dispersive curves of the separate modes near to the corresponding special
+points. The solution of this problem is possible with the help of the modified
+variant of the special-time ray method offered by the authors (the method of
+geometrical optics), the basic difference of which consists that the asymptotic
+representation of the solution may be found in the form the series of the
+non-integer degrees of some small parameter. At that the exponent depends on
+the concrete form of representation of this package. The obvious kind of the
+representation is determined from the principle of the localness and the
+asymptotic behavior of the solution in the stationary and the
+horizontally-homogeneous case. The phases of the wave packages are determined
+from the corresponding equations of the eikonal, which can be solved
+numerically on the characteristics (rays). Amplitudes of the wave packages are
+determined from the laws of conservation of the some invariants along the
+characteristics (rays).",
+company law package,http://arxiv.org/abs/1211.1242v1,Information and Communication Technology in Combating Counterfeit Drugs,"Pharma frauds are on the rise, counterfeit drugs are giving sleepless nights
+to patients, pharmaceutical companies and governments. The laws prohibiting the
+sales of counterfeit drugs cannot succeed without technological interventions.
+Several analytical techniques and tools including spectroscopy, holograms,
+barcoding, differentiated packing, radio frequency identification,
+fingerprints, hyperspectral imaging etc. have been employed over the years in
+combating this menace; however this challenge is becoming more sophisticated
+with the evolution of the World Wide Web and online pharmacies. This paper
+presents a review on the contribution of Information and Communication
+Technology (ICT) as a drug counterfeit countermeasure.","International Journal of Engineering and Technology Volume 2 No.
+  9, September, 2012"
+company law package,http://arxiv.org/abs/physics/0508203v1,Impact of Stock Market Structure on Intertrade Time and Price Dynamics,"The NYSE and NASDAQ stock markets have very different structures and there is
+continuing controversy over whether differences in stock price behaviour are
+due to market structure or company characteristics. As the influence of market
+structure on stock prices may be obscured by exogenous factors such as demand
+and supply, we hypothesize that modulation of the flow of transactions due to
+market operations may carry a stronger imprint of the internal market
+mechanism. We analyse times between consecutive transactions (ITT) for NYSE and
+NASDAQ stocks, and we relate the dynamical properties of the ITT with those of
+the corresponding price fluctuations. We find a robust scale-invariant temporal
+organisation in the ITT of stocks which is independent of individual company
+characteristics and industry sector, but which depends on market structure. We
+find that stocks registered on the NASDAQ exhibit stronger correlations in
+their transaction timing within a trading day, compared with NYSE stocks.
+Further, we find that companies that transfer from the NASDAQ to the NYSE show
+a reduction in the correlation strength of transaction timing within a trading
+day, after the move, suggesting influences of market structure. Surprisingly,
+we also observe that stronger power-law correlations in the ITT are coupled
+with stronger power-law correlations in absolute price returns and higher price
+volatility, suggesting a strong link between the dynamical properties of ITT
+and the corresponding price fluctuations over a broad range of time scales.
+Comparing the NYSE and NASDAQ, we demonstrate that the higher correlations we
+find in ITT for NASDAQ stocks are matched by higher correlations in absolute
+price returns and by higher volatility, suggesting that market structure may
+affect price behaviour through information contained in transaction timing.",
+company law package,http://arxiv.org/abs/1010.3815v2,Individual and Group Dynamics in Purchasing Activity,"As a major part of the daily operation in an enterprise, purchasing frequency
+is of constant change. Recent approaches on the human dynamics can provide some
+new insights into the economic behaviors of companies in the supply chain. This
+paper captures the attributes of creation times of purchase orders to an
+individual vendor, as well as to all vendors, and further investigates whether
+they have some kind of dynamics by applying logarithmic binning to the
+construction of distribution plot. It's found that the former displays a
+power-law distribution with approximate exponent 2.0, while the latter is
+fitted by a mixture distribution with both power-law and exponential
+characteristics. Obviously, two distinctive characteristics are presented for
+the interval time distribution from the perspective of individual dynamics and
+group dynamics. Actually, this mixing feature can be attributed to the fitting
+deviations as they are negligible for individual dynamics, but those of
+different vendors are cumulated and then lead to an exponential factor for
+group dynamics. To better describe the mechanism generating the heterogeneity
+of purchase order assignment process from the objective company to all its
+vendors, a model driven by product life cycle is introduced, and then the
+analytical distribution and the simulation result are obtained, which are in
+good line with the empirical data.",Physica A 392 (2013) 343-349
+company law package,http://arxiv.org/abs/1005.1899v1,The ABC of Digital Business Ecosystems,"The European Commission has the power to inspire, initiate and sponsor huge
+transnational projects to an extent impossible for most other entities. These
+projects can address universal themes and develop well-being models that are
+valuable across a diversity of societies and economies. It is a universal fact
+that SMEs in all countries provide a substantial proportion of total
+employment, and conduct much of a nation's innovative activity. Yet these
+smaller companies struggle in global markets on a far from level playing field,
+where large companies have distinct advantages. To redress this imbalance the
+Commission saw it as a priority to improve the trading capability of the Small
+and Medium-sized Enterprises (SMEs), and perceived digital platforms as the
+modern means to this end. They considered that the best operational model for a
+vibrant Web2.0-based Internet services industry would be by analogy to
+well-performing biological ecosystems. Open Source Software is adopted in the
+DBE/OPAALS projects as the best support for sustainability of such complex
+electronic webs, since it minimises interoperability problems, enables code
+access for cheaper in-house modification or development of systems, and reduces
+both capital and operating expenditure.","The ABC of Digital Business Ecosystems. J Stanley and G Briscoe.
+  Communications Law - Journal of Computer, Media and Telecommunications Law,
+  15(1), 2010."
+company law package,http://arxiv.org/abs/1903.09518v1,Trial of an AI: Empowering people to explore law and science challenges,"Artificial Intelligence represents many things: a new market to conquer or a
+quality label for tech companies, a threat for traditional industries, a menace
+for democracy, or a blessing for our busy everyday life. The press abounds in
+examples illustrating these aspects, but one should draw not hasty and
+premature conclusions. The first successes in AI have been a surprise for
+society at large-including researchers in the field. Today, after the initial
+stupefaction, we have examples of the system reactions: traditional companies
+are heavily investing in AI, social platforms are monitored during elections,
+data collection is more and more regulated, etc. The resilience of an
+organization (i.e. its capacity to resist to a shock) relies deeply on the
+perception of its environment. Future problems have to be anticipated, while
+unforeseen events occurring have to be quickly identified in order to be
+mitigated as fast as possible. The author states that this clear perception
+starts with a common definition of AI in terms of capacities and limits. AI
+practitioners should make notions and concepts accessible to the general public
+and the impacted fields (e.g. industries, law, education). It is a truism that
+only law experts would have the potential to estimate IA impacts on judicial
+system. However, questions remain on how to connect different kind of expertise
+and what is the appropriate level of detail required for the knowledge
+exchanges. And the same consideration is true for dissemination towards
+society. Ultimately, society will live with decisions made by the ""experts"". It
+sounds wise to involve society in the decision process rather than risking to
+pay consequences later. Therefore, society also needs the key concepts to
+understand AI impact on their life. This was the purpose of the trial of an IA
+that took place in October 2018 at the Court of Appeal of Paris: gathering
+experts from various fields to expose challenges in law and science towards a
+general public.","IFIM's International Journal on Law & Regulation of Artificial
+  Intelligence & Robotics, 2019, 1 (1)"
+company law package,http://arxiv.org/abs/1204.6549v1,Power Law Distributions of Patents as Indicators of Innovation,"The total number of patents produced by a country (or the number of patents
+produced per capita) is often used as an indicator for innovation. Here we
+present evidence that the distribution of patents amongst applicants within
+many OECD countries is well-described by power laws with exponents that vary
+between 1.66 (Japan) and 2.37 (Poland). Using simulations based on simple
+preferential attachment-type rules that generate power laws, we find we can
+explain some of the variation in exponents between countries, with countries
+that have larger numbers of patents per applicant generally exhibiting smaller
+exponents in both the simulated and actual data. Similarly we find that the
+exponents for most countries are inversely correlated with other indicators of
+innovation, such as R&D intensity or the ubiquity of export baskets. This
+suggests that in more advanced economies, which tend to have smaller values of
+the exponent, a greater proportion of the total number of patents are filed by
+large companies than in less advanced countries.",
+company law package,http://arxiv.org/abs/1609.07818v1,"Programming the Universe: The First Commandment of Software Engineering
+  for all Varieties of Information Systems","Since the early days of computers and programs, the process and outcomes of
+software development has been a minefield plagued with problems and failures,
+as much as the complexity and complication of software and its development has
+increased by a thousandfold in half a century. Over the years, a number of
+theories, laws, best practices, manifestos and methodologies have emerged, with
+varied degrees of (un)success. Our experience as software engineers of complex
+and large-scale systems shows that those guidelines are bound to previously
+defined and often narrow scopes. Enough is enough. Nowadays, nearly every
+company is in the software and services business and everything is - or is
+managed by - software. It is about time, then, that the laws that govern our
+universe ought to be redefined. In this context, we discuss and present a set
+of universal laws that leads us to propose the first commandment of software
+engineering for all varieties of information systems.","Proceedings of the 30th Brazilian Symposium on Software
+  Engineering (SBES '16), Eduardo Santana de Almeida (Ed.). ACM, New York, NY,
+  USA, 153-156, (2016)"
+company law package,http://arxiv.org/abs/1802.06285v1,Greening Geographical Power Allocation for Cellular Networks,"Harvesting energy from nature (solar, wind etc.) is envisioned as a key
+enabler for realizing green wireless networks. However, green energy sources
+are geographically distributed and the power amount is random which may not
+enough to power a base station by a single energy site. Burning brown energy
+sources such as coal and crude oil, though companied with carbon dioxide
+emission, provides stable power. In this paper, without sacrificing
+communication quality, we investigate how to perform green energy allocation to
+abate the dependence on brown energy with hybrid brown and green energy
+injected in power networks. We present a comprehensive framework to
+characterize the performance of hybrid green and brown energy empowered
+cellular network. Novel performance metric ""bits/ton\ce{CO2}/Hz"" is proposed to
+evaluate the greenness of the communication network. As green energy is usually
+generated from distributed geographical locations and is time varying, online
+geographical power allocation algorithm is proposed to maximize the greenness
+of communication network considering electricity transmission's physical laws
+i.e., Ohm's law and Kirchhoff's circuit laws. Simulations show that
+geographically distributed green energy sources complement each other by
+improving the communication capacity while saving brown energy consumption.
+Besides, the penetration of green energy can also help reduce power loss on the
+transmission breaches.",
+company law package,http://arxiv.org/abs/cs/0507055v2,ReacProc: A Tool to Process Reactions Describing Particle Interactions,"ReacProc is a program written in C/C++ programming language which can be used
+(1) to check out of reactions describing particles interactions against
+conservation laws and (2) to reduce input reaction into some canonical form. A
+table with particles properties is available within ReacProc package.",
+company law package,http://arxiv.org/abs/1803.04761v1,"Asymmetric Influence of Employees and Trading Partners on Company's
+  Sales and its Dynamical Origin","Growth of business firms or companies has been a subject of intensive
+research over a century. However, there still remains controversy about the
+basic mechanisms of their growth. Inspired by previous work on scaling laws in
+other systems, here we extend the notion of size of firms from a scalar to a
+vector in order to characterize in more detail the mechanisms of growth and
+decay of firms. Based on a large scale dataset of Japanese firms covering over
+two million firms for two decades (1994-2015), we compile the dataset of
+vectors of three components, namely, annual sales, number of employee and
+number of trading partners. We find that the number of employees is more
+influential in determining firm sales compared to the number of trading
+partners. This asymmetry is validated by regressions of sales against these
+parameters and the analysis of growth rate correlations. We then explore
+multi-variate dynamics of firms by elaborating an evolutionary flow diagram of
+the averaged motion in the three-dimensional vector space. The flow diagram
+indicates that firms which deviate from the balanced scaling relation tend to
+return to this relation. We also find that firms with a chance of large sales
+growth suffer the risk of high disappearance rate. These results could serve
+for prediction and modeling of firms, and are relevant for theoretical
+understanding of the general principles governing complex systems.",
+company law package,http://arxiv.org/abs/1809.05762v1,"Using Artificial Intelligence to Support Compliance with the General
+  Data Protection Regulation","The General Data Protection Regulation (GDPR) is a European Union regulation
+that will replace the existing Data Protection Directive on 25 May 2018. The
+most significant change is a huge increase in the maximum fine that can be
+levied for breaches of the regulation. Yet fewer than half of UK companies are
+fully aware of GDPR - and a number of those who were preparing for it stopped
+doing so when the Brexit vote was announced. A last-minute rush to become
+compliant is therefore expected, and numerous companies are starting to offer
+advice, checklists and consultancy on how to comply with GDPR. In such an
+environment, artificial intelligence technologies ought to be able to assist by
+providing best advice; asking all and only the relevant questions; monitoring
+activities; and carrying out assessments. The paper considers four areas of
+GDPR compliance where rule based technologies and/or machine learning
+techniques may be relevant: * Following compliance checklists and codes of
+conduct; * Supporting risk assessments; * Complying with the new regulations
+regarding technologies that perform automatic profiling; * Complying with the
+new regulations concerning recognising and reporting breaches of security. It
+concludes that AI technology can support each of these four areas. The
+requirements that GDPR (or organisations that need to comply with GDPR) state
+for explanation and justification of reasoning imply that rule-based approaches
+are likely to be more helpful than machine learning approaches. However, there
+may be good business reasons to take a different approach in some
+circumstances.","Artificial Intelligence and Law (2017) 25, 429 - 443"
+company law package,http://arxiv.org/abs/1712.02987v1,Collaborative Company Profiling: Insights from an Employee's Perspective,"Company profiling is an analytical process to build an indepth understanding
+of company's fundamental characteristics. It serves as an effective way to gain
+vital information of the target company and acquire business intelligence.
+Traditional approaches for company profiling rely heavily on the availability
+of rich finance information about the company, such as finance reports and SEC
+filings, which may not be readily available for many private companies.
+However, the rapid prevalence of online employment services enables a new
+paradigm - to obtain the variety of company's information from their employees'
+online ratings and comments. This, in turn, raises the challenge to develop
+company profiles from an employee's perspective. To this end, in this paper, we
+propose a method named Company Profiling based Collaborative Topic Regression
+(CPCTR), for learning the latent structural patterns of companies. By
+formulating a joint optimization framework, CPCTR has the ability in
+collaboratively modeling both textual (e.g., reviews) and numerical information
+(e.g., salaries and ratings). Indeed, with the identified patterns, including
+the positive/negative opinions and the latent variable that influences salary,
+we can effectively carry out opinion analysis and salary prediction. Extensive
+experiments were conducted on a real-world data set to validate the
+effectiveness of CPCTR. The results show that our method provides a
+comprehensive understanding of company characteristics and delivers a more
+effective prediction of salaries than other baselines.",
+company law package,http://arxiv.org/abs/cs/0002018v2,Efficient generation of rotating workforce schedules,"Generating high-quality schedules for a rotating workforce is a critical task
+in all settings where a certain staffing level must be guaranteed beyond the
+capacity of single employees, such as for instance in industrial plants,
+hospitals, or airline companies. Results from ergonomics \cite{BEST91} indicate
+that rotating workforce schedules have a profound impact on the health and
+social life of employees as well as on their performance at work. Moreover,
+rotating workforce schedules must satisfy legal requirements and should also
+meet the objectives of the employing organization. We describe our solution to
+this problem. A basic design decision was to aim at quickly obtaining
+high-quality schedules for realistically sized problems while maintaining human
+control. The interaction between the decision maker and the algorithm therefore
+consists in four steps: (1) choosing a set of lengths of work blocks (a work
+block is a sequence of consecutive days of work shifts), (2) choosing a
+particular sequence of work and days-off blocks among those that have optimal
+weekend characteristics, (3) enumerating possible shift sequences for the
+chosen work blocks subject to shift change constraints and bounds on sequences
+of shifts, and (4) assignment of shift sequences to work blocks while
+fulfilling the staffing requirements. The combination of constraint
+satisfaction and problem-oriented intelligent backtracking algorithms in each
+of the four steps allows to find good solutions for real-world problems in
+acceptable time. Computational results from real-world problems and from
+benchmark examples found in the literature confirm the viability of our
+approach. The algorithms are now part of a commercial shift scheduling software
+package.",
+company law package,http://arxiv.org/abs/1503.02064v1,"A Unified Platform Enabling Power System Circuit Model Data Transfer
+  Among Different Software","Diversity of software packages to simulate the power system circuits is
+considerable. It is challenging to transfer power system circuit model data
+(PSCMD) among different software tools and rebuild the same circuit in the
+second software environment. This paper proposes a unified platform (UP) where
+PSCMD are stored in a spreadsheet file with a defined format. Script-based
+PSCMD transfer applications, written in MATLAB, have been developed for a set
+of software to read the circuit model data from the UP spreadsheet and
+reconstruct the circuit in the destination software. This significantly eases
+the process of transferring circuit model data between each pair of software
+tools. In this paper ETAP, OpenDSS, Grid LabD, and DEW are considered. In order
+to test the developed PSCMD transfer applications, circuit model data of a test
+circuit and an actual sample circuit from a Californian utility company, both
+built in CYME, were exported into the spreadsheet file according to the UP
+format. Thereafter, circuit model data were imported successfully from the
+spreadsheet files into all above mentioned software using the PSCMD transfer
+applications developed for each software individually. Finally, load flow
+analysis is performed in all software and the obtained results match with each
+other.",
+company law package,http://arxiv.org/abs/1509.02256v3,Matrix Computations and Optimization in Apache Spark,"We describe matrix computations available in the cluster programming
+framework, Apache Spark. Out of the box, Spark provides abstractions and
+implementations for distributed matrices and optimization routines using these
+matrices. When translating single-node algorithms to run on a distributed
+cluster, we observe that often a simple idea is enough: separating matrix
+operations from vector operations and shipping the matrix operations to be ran
+on the cluster, while keeping vector operations local to the driver. In the
+case of the Singular Value Decomposition, by taking this idea to an extreme, we
+are able to exploit the computational power of a cluster, while running code
+written decades ago for a single core. Another example is our Spark port of the
+popular TFOCS optimization package, originally built for MATLAB, which allows
+for solving Linear programs as well as a variety of other convex programs. We
+conclude with a comprehensive set of benchmarks for hardware accelerated matrix
+computations from the JVM, which is interesting in its own right, as many
+cluster programming frameworks use the JVM. The contributions described in this
+paper are already merged into Apache Spark and available on Spark installations
+by default, and commercially supported by a slew of companies which provide
+further services.",
+company law package,http://arxiv.org/abs/1608.06759v1,"Systematic Evaluation of Sandboxed Software Deployment for Real-time
+  Software on the Example of a Self-Driving Heavy Vehicle","Companies developing and maintaining software-only products like web shops
+aim for establishing persistent links to their software running in the field.
+Monitoring data from real usage scenarios allows for a number of improvements
+in the software life-cycle, such as quick identification and solution of
+issues, and elicitation of requirements from previously unexpected usage. While
+the processes of continuous integration, continuous deployment, and continuous
+experimentation using sandboxing technologies are becoming well established in
+said software-only products, adopting similar practices for the automotive
+domain is more complex mainly due to real-time and safety constraints. In this
+paper, we systematically evaluate sandboxed software deployment in the context
+of a self-driving heavy vehicle that participated in the 2016 Grand Cooperative
+Driving Challenge (GCDC) in The Netherlands. We measured the system's
+scheduling precision after deploying applications in four different execution
+environments. Our results indicate that there is no significant difference in
+performance and overhead when sandboxed environments are used compared to
+natively deployed software. Thus, recent trends in software architecting,
+packaging, and maintenance using microservices encapsulated in sandboxes will
+help to realize similar software and system engineering for cyber-physical
+systems.",
+company law package,http://arxiv.org/abs/1706.09172v1,Sketches and Diagrams in Practice,"Sketches and diagrams play an important role in the daily work of software
+developers. In this paper, we investigate the use of sketches and diagrams in
+software engineering practice. To this end, we used both quantitative and
+qualitative methods. We present the results of an exploratory study in three
+companies and an online survey with 394 participants. Our participants included
+software developers, software architects, project managers, consultants, as
+well as researchers. They worked in different countries and on projects from a
+wide range of application areas. Most questions in the survey were related to
+the last sketch or diagram that the participants had created. Contrary to our
+expectations and previous work, the majority of sketches and diagrams contained
+at least some UML elements. However, most of them were informal. The most
+common purposes for creating sketches and diagrams were designing, explaining,
+and understanding, but analyzing requirements was also named often. More than
+half of the sketches and diagrams were created on analog media like paper or
+whiteboards and have been revised after creation. Most of them were used for
+more than a week and were archived. We found that the majority of participants
+related their sketches to methods, classes, or packages, but not to source code
+artifacts with a lower level of abstraction.",
+company law package,http://arxiv.org/abs/1808.06900v2,"Defending against Intrusion of Malicious UAVs with Networked UAV Defense
+  Swarms","Nowadays, companies such as Amazon, Alibaba, and even pizza chains are
+pushing forward to use drones, also called UAVs (Unmanned Aerial Vehicles), for
+service provision, such as package and food delivery. As governments intend to
+use these immense economic benefits that UAVs have to offer, urban planners are
+moving forward to incorporate so-called UAV flight zones and UAV highways in
+their smart city designs. However, the high-speed mobility and behavior
+dynamics of UAVs need to be monitored to detect and, subsequently, to deal with
+intruders, rogue drones, and UAVs with a malicious intent. This paper proposes
+a UAV defense system for the purpose of intercepting and escorting a malicious
+UAV outside the flight zone. The proposed UAV defense system consists of a
+defense UAV swarm, which is capable to self-organize its defense formation in
+the event of intruder detection, and chase the malicious UAV as a networked
+swarm. Modular design principles have been used for our fully localized
+approach. We developed an innovative auto-balanced clustering process to
+realize the intercept- and capture-formation. As it turned out, the resulting
+networked defense UAV swarm is resilient against communication losses. Finally,
+a prototype UAV simulator has been implemented. Through extensive simulations,
+we show the feasibility and performance of our approach.",
+company law package,http://arxiv.org/abs/1902.09155v2,CityJSON: A compact and easy-to-use encoding of the CityGML data model,"The international standard CityGML is both a data model and an exchange
+format to store digital 3D models of cities. While the data model is used by
+several cities, companies, and governments, in this paper we argue that its
+XML-based exchange format has several drawbacks. These drawbacks mean that it
+is difficult for developers to implement parsers for CityGML, and that
+practitioners have, as a consequence, to convert their data to other formats if
+they want to exchange them with others. We present CityJSON, a new JSON-based
+exchange format for the CityGML data model (version 2.0.0). CityJSON was
+designed with programmers in mind, so that software and APIs supporting it can
+be quickly built. It was also designed to be compact (a compression factor of
+around six with real-world datasets), and to be friendly for web and mobile
+development. We argue that it is considerably easier to use than the CityGML
+format, both for reading and for creating datasets. We discuss in this paper
+the main features of CityJSON, briefly present the different software packages
+to parse/view/edit/create files (including one to automatically convert between
+the JSON and GML encodings), analyse how real-world datasets compare to those
+of CityGML, and we also introduce \emph{Extensions}, which allow us to extend
+the core data model in a documented manner.",
+company law package,http://arxiv.org/abs/1303.5061v1,"Which research in design creativity and innovation? Let us not forget
+  the reality of companies","Studying design creativity and innovation from practical perspectives for
+companies requires both a good understanding of the company ecosystem and its
+inner processes contributing to delivered innovations and a rigorous design
+research methodology to provide effective design models, methods, platforms
+that are truly effective in the context of company. Working in an Industrial
+Engineering laboratory, we advocate a more systemic vision of design creativity
+and innovation in company ecosystems. We present in this paper an attempt to
+develop and make professional an innovation engineering. Our research works are
+illustrated along the different research topics of an innovation process. We
+start by a recent survey on innovation practice and organizational models led
+in 28 large companies. The lessons learned about this survey reinforce our
+belief that there is a need for a new method in agile management of radical
+innovation projects in company contexts. We currently develop, test and apply
+such a methodology named: Radical Innovation Design(RID). Its effectiveness has
+been evaluated through a large scale evaluation of the project outcomes for the
+company. Two extensions of RID have been proposed and deployed in company
+contexts: a selection procedure for innovation clusters and a value-driven
+process for airplane development projects.","International Journal of Design Creativity and Innovation 2 (2013)
+  1-21"
