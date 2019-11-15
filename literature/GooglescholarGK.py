@@ -21,7 +21,7 @@ for item in searchterms:
     search_query = scholarly.search_pubs_query(item)
     for i in range(30):
         paper = next(search_query)
-        if ('url' in paper.bib):
+        if ('url' in paper.bib) & ('abstract' in paper.bib):
             currentresult = []
             currentresult.append(item)
             currentresult.append(paper.bib['url'])
