@@ -577,19 +577,6 @@ predict future derailment as the conversation develops. By applying this model
 to two new diverse datasets of online conversations with labels for antisocial
 events, we show that it outperforms state-of-the-art systems at forecasting
 derailment.",
-cross-border conversion,http://arxiv.org/abs/1605.04462v3,"Large-scale Analysis of Counseling Conversations: An Application of
-  Natural Language Processing to Mental Health","Mental illness is one of the most pressing public health issues of our time.
-While counseling and psychotherapy can be effective treatments, our knowledge
-about how to conduct successful counseling conversations has been limited due
-to lack of large-scale data with labeled outcomes of the conversations. In this
-paper, we present a large-scale, quantitative study on the discourse of
-text-message-based counseling conversations. We develop a set of novel
-computational discourse analysis methods to measure how various linguistic
-aspects of conversations are correlated with conversation outcomes. Applying
-techniques such as sequence-based conversation models, language model
-comparisons, message clustering, and psycholinguistics-inspired word frequency
-analyses, we discover actionable conversation strategies that are associated
-with better conversation outcomes.",
 cross-border conversion,http://arxiv.org/abs/1709.04734v1,Perspectives for Evaluating Conversational AI,"Conversational AI systems are becoming famous in day to day lives. In this
 paper, we are trying to address the following key question: To identify whether
 design, as well as development efforts for search oriented conversational AI
@@ -604,6 +591,19 @@ based personal assistant. An importance of personalization and how it can be
 achieved is explained in detail. Current challenges in the development of an
 ideal conversational AI (personal assistant) are also highlighted along with
 guidelines for achieving personalized experience for users.",
+cross-border conversion,http://arxiv.org/abs/1605.04462v3,"Large-scale Analysis of Counseling Conversations: An Application of
+  Natural Language Processing to Mental Health","Mental illness is one of the most pressing public health issues of our time.
+While counseling and psychotherapy can be effective treatments, our knowledge
+about how to conduct successful counseling conversations has been limited due
+to lack of large-scale data with labeled outcomes of the conversations. In this
+paper, we present a large-scale, quantitative study on the discourse of
+text-message-based counseling conversations. We develop a set of novel
+computational discourse analysis methods to measure how various linguistic
+aspects of conversations are correlated with conversation outcomes. Applying
+techniques such as sequence-based conversation models, language model
+comparisons, message clustering, and psycholinguistics-inspired word frequency
+analyses, we discover actionable conversation strategies that are associated
+with better conversation outcomes.",
 cross-border conversion,http://arxiv.org/abs/1906.02738v2,"Conversing by Reading: Contentful Neural Conversation with On-demand
   Machine Reading","Although neural conversation models are effective in learning how to produce
 fluent responses, their primary challenge lies in knowing what to say to make
@@ -991,14 +991,6 @@ phenomenon. Potential generalizations of the model - including individual
 traits and preferences, memory effects and more elaborated conversational
 topologies - may find important applications also in other fields of research,
 where dynamically-interacting and networked agents play a fundamental role.","Journal of Artificial Societies and Social Simulation 13, 4 (2010)"
-cross-border conversion,http://arxiv.org/abs/1411.0319v3,"Achievable and Converse bounds over a general channel and general
-  decoding metric","Achievable and converse bounds for general channels and mismatched decoding
-are derived. The direct (achievable) bound is derived using random coding and
-the analysis is tight up to factor 2. The converse is given in term of the
-achievable bound and the factor between them is given. This gives performance
-of the best rate-R code with possible mismatched decoding metric over a general
-channel, up to the factor that is identified. In the matched case we show that
-the converse equals the minimax meta-converse of Polyanskiy et al.",
 cross-border conversion,http://arxiv.org/abs/1307.6319v1,"Kinetic simulation of the O-X conversion process in dense magnetized
   plasmas","The ordinary-extraordinary-Bernstein (O-X-B) double conversion is considered
 and simulated with a kinetic particle model vs full wave model for parameters
@@ -1032,34 +1024,14 @@ exhibit some unique and interesting idiosyncrasies. Our work sheds light on (i)
 how complex cultural phenomena such as online conversational practices are
 amenable to quantification and (ii) the way social media such as Twitter are
 utilized by political parties.",
-cross-border conversion,http://arxiv.org/abs/1510.02527v1,"Efficient and low-noise single-photon-level frequency conversion
-  interfaces using silicon nanophotonics","Optical frequency conversion has applications ranging from tunable light
-sources to telecommunications-band interfaces for quantum information science.
-Here, we demonstrate efficient, low-noise frequency conversion on a
-nanophotonic chip through four-wave-mixing Bragg scattering in compact
-(footprint < 0.5 x 10^-4 cm^2) Si3N4 microring resonators. We investigate three
-frequency conversion configurations: (1) spectral translation over a few
-nanometers within the 980 nm band, (2) upconversion from 1550 nm to 980 nm, and
-(3) downconversion from 980 nm to 1550 nm. With conversion efficiencies ranging
-from 25 % for the first process to > 60 % for the last two processes, a signal
-conversion bandwidth > 1 GHz, < 60 mW of continuous-wave pump power needed, and
-background noise levels between a few fW and a few pW, these devices are
-suitable for quantum frequency conversion of single photon states from InAs
-quantum dots. Simulations based on coupled mode equations and the
-Lugiato-Lefever equation are used to model device performance, and show
-quantitative agreement with measurements.","Nature Photonics, Vol. 10, pp. 406-414 (2016)"
-cross-border conversion,http://arxiv.org/abs/1412.3511v1,"Optimizing optical Bragg scattering for single-photon frequency
-  conversion","We develop a systematic theory for optimising single-photon frequency
-conversion using optical Bragg scattering. The efficiency and phase-matching
-conditions for the desired Bragg scattering conversion as well as spurious
-scattering and modulation instability are identified. We find that third-order
-dispersion can suppress unwanted processes, while dispersion above the fourth
-order limits the maximum conversion efficiency. We apply the optimisation
-conditions to frequency conversion in highly nonlinear fiber, silicon nitride
-waveguides and silicon nanowires. Efficient conversion is confirmed using full
-numerical simulations. These design rules will assist the development of
-efficient quantum frequency conversion between multicolour single photon
-sources for integration in complex quantum networks.","Phys. Rev. A 91, 013837 (2015)"
+cross-border conversion,http://arxiv.org/abs/1411.0319v3,"Achievable and Converse bounds over a general channel and general
+  decoding metric","Achievable and converse bounds for general channels and mismatched decoding
+are derived. The direct (achievable) bound is derived using random coding and
+the analysis is tight up to factor 2. The converse is given in term of the
+achievable bound and the factor between them is given. This gives performance
+of the best rate-R code with possible mismatched decoding metric over a general
+channel, up to the factor that is identified. In the matched case we show that
+the converse equals the minimax meta-converse of Polyanskiy et al.",
 cross-border conversion,http://arxiv.org/abs/1604.04358v1,"StalemateBreaker: A Proactive Content-Introducing Approach to Automatic
   Human-Computer Conversation","Existing open-domain human-computer conversation systems are typically
 passive: they either synthesize or retrieve a reply provided a human-issued
@@ -1129,6 +1101,34 @@ describes our experience building SlugBot for the 2017 Alexa Prize, and
 discusses how we leveraged search and structured data from different sources to
 help SlugBot produce dialogic turns and carry on conversations whose length
 over the semi-finals user evaluation period averaged 8:17 minutes.",Search-Oriented Conversational AI (SCAI) 2017
+cross-border conversion,http://arxiv.org/abs/1412.3511v1,"Optimizing optical Bragg scattering for single-photon frequency
+  conversion","We develop a systematic theory for optimising single-photon frequency
+conversion using optical Bragg scattering. The efficiency and phase-matching
+conditions for the desired Bragg scattering conversion as well as spurious
+scattering and modulation instability are identified. We find that third-order
+dispersion can suppress unwanted processes, while dispersion above the fourth
+order limits the maximum conversion efficiency. We apply the optimisation
+conditions to frequency conversion in highly nonlinear fiber, silicon nitride
+waveguides and silicon nanowires. Efficient conversion is confirmed using full
+numerical simulations. These design rules will assist the development of
+efficient quantum frequency conversion between multicolour single photon
+sources for integration in complex quantum networks.","Phys. Rev. A 91, 013837 (2015)"
+cross-border conversion,http://arxiv.org/abs/1510.02527v1,"Efficient and low-noise single-photon-level frequency conversion
+  interfaces using silicon nanophotonics","Optical frequency conversion has applications ranging from tunable light
+sources to telecommunications-band interfaces for quantum information science.
+Here, we demonstrate efficient, low-noise frequency conversion on a
+nanophotonic chip through four-wave-mixing Bragg scattering in compact
+(footprint < 0.5 x 10^-4 cm^2) Si3N4 microring resonators. We investigate three
+frequency conversion configurations: (1) spectral translation over a few
+nanometers within the 980 nm band, (2) upconversion from 1550 nm to 980 nm, and
+(3) downconversion from 980 nm to 1550 nm. With conversion efficiencies ranging
+from 25 % for the first process to > 60 % for the last two processes, a signal
+conversion bandwidth > 1 GHz, < 60 mW of continuous-wave pump power needed, and
+background noise levels between a few fW and a few pW, these devices are
+suitable for quantum frequency conversion of single photon states from InAs
+quantum dots. Simulations based on coupled mode equations and the
+Lugiato-Lefever equation are used to model device performance, and show
+quantitative agreement with measurements.","Nature Photonics, Vol. 10, pp. 406-414 (2016)"
 cross-border conversion,http://arxiv.org/abs/1712.09943v3,Toward Continual Learning for Conversational Agents,"While end-to-end neural conversation models have led to promising advances in
 reducing hand-crafted features and errors induced by the traditional complex
 system architecture, they typically require an enormous amount of data due to
@@ -2018,25 +2018,6 @@ Comparing the NYSE and NASDAQ, we demonstrate that the higher correlations we
 find in ITT for NASDAQ stocks are matched by higher correlations in absolute
 price returns and by higher volatility, suggesting that market structure may
 affect price behaviour through information contained in transaction timing.",
-company law package,http://arxiv.org/abs/1010.3815v2,Individual and Group Dynamics in Purchasing Activity,"As a major part of the daily operation in an enterprise, purchasing frequency
-is of constant change. Recent approaches on the human dynamics can provide some
-new insights into the economic behaviors of companies in the supply chain. This
-paper captures the attributes of creation times of purchase orders to an
-individual vendor, as well as to all vendors, and further investigates whether
-they have some kind of dynamics by applying logarithmic binning to the
-construction of distribution plot. It's found that the former displays a
-power-law distribution with approximate exponent 2.0, while the latter is
-fitted by a mixture distribution with both power-law and exponential
-characteristics. Obviously, two distinctive characteristics are presented for
-the interval time distribution from the perspective of individual dynamics and
-group dynamics. Actually, this mixing feature can be attributed to the fitting
-deviations as they are negligible for individual dynamics, but those of
-different vendors are cumulated and then lead to an exponential factor for
-group dynamics. To better describe the mechanism generating the heterogeneity
-of purchase order assignment process from the objective company to all its
-vendors, a model driven by product life cycle is introduced, and then the
-analytical distribution and the simulation result are obtained, which are in
-good line with the empirical data.",Physica A 392 (2013) 343-349
 company law package,http://arxiv.org/abs/1005.1899v1,The ABC of Digital Business Ecosystems,"The European Commission has the power to inspire, initiate and sponsor huge
 transnational projects to an extent impossible for most other entities. These
 projects can address universal themes and develop well-being models that are
@@ -2056,6 +2037,25 @@ access for cheaper in-house modification or development of systems, and reduces
 both capital and operating expenditure.","The ABC of Digital Business Ecosystems. J Stanley and G Briscoe.
   Communications Law - Journal of Computer, Media and Telecommunications Law,
   15(1), 2010."
+company law package,http://arxiv.org/abs/1010.3815v2,Individual and Group Dynamics in Purchasing Activity,"As a major part of the daily operation in an enterprise, purchasing frequency
+is of constant change. Recent approaches on the human dynamics can provide some
+new insights into the economic behaviors of companies in the supply chain. This
+paper captures the attributes of creation times of purchase orders to an
+individual vendor, as well as to all vendors, and further investigates whether
+they have some kind of dynamics by applying logarithmic binning to the
+construction of distribution plot. It's found that the former displays a
+power-law distribution with approximate exponent 2.0, while the latter is
+fitted by a mixture distribution with both power-law and exponential
+characteristics. Obviously, two distinctive characteristics are presented for
+the interval time distribution from the perspective of individual dynamics and
+group dynamics. Actually, this mixing feature can be attributed to the fitting
+deviations as they are negligible for individual dynamics, but those of
+different vendors are cumulated and then lead to an exponential factor for
+group dynamics. To better describe the mechanism generating the heterogeneity
+of purchase order assignment process from the objective company to all its
+vendors, a model driven by product life cycle is introduced, and then the
+analytical distribution and the simulation result are obtained, which are in
+good line with the empirical data.",Physica A 392 (2013) 343-349
 company law package,http://arxiv.org/abs/1903.09518v1,Trial of an AI: Empowering people to explore law and science challenges,"Artificial Intelligence represents many things: a new market to conquer or a
 quality label for tech companies, a threat for traditional industries, a menace
 for democracy, or a blessing for our busy everyday life. The press abounds in
